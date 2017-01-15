@@ -1,0 +1,49 @@
+
+          Title....: Alone in the Dark   
+
+          Supplier.: gen-ae2a      -  Date.....: 13/12/2005
+          Selfboot.: Hykan         -  Genre....: Adventure
+          Platform.: SEGA DC       -  Files....: 30x20MB
+          Origin...: Europe/Pal    -  Filename.: hyk-ae2a.partxx.rar
+          Type.....: .nrg 80min    -  Ripped...: See note
+                                                                      
+________________________________________________________________________________
+
+
+  Release Notes                                           
+- ----------------------------- -
+
+Genius has released a rip of this game in 2001, however, disk 2A (Aline) is
+missing 2 movies that was thought to be used in disk 2B only (C300_033.4XM &
+C703_058.4XM) and therefore the game will hang at two places (for my Jap console
+at least) - at the Planetarium and the Gate of Darkness.
+
+I have fixed this problem by copying these 2 movies from disk 2B. Since I use
+the first session (LBA45000) to store data too, I am able to fit in the ending
+movie too :)
+
+Laillas has released a 2 disks version of the rip but he used the movies from
+the PSX version which are in Spanish and the resolution is low (very blocky). If
+you have no problem with that, then you don't need this release.
+
+The test CDs were burnt with Nero 6.6.0.13 DAO at 16X speed, slightly overburnt
+to 80:15 minutes. Most 80min(730M)media and burner shouldn't have any problem
+with this.
+
+
+Final Note:
+The images were created with a variation of Echelon's method and hex edited
+directly into Nero format without burning to CDR first. Since these are the
+masters for burning the test CDs, I wouldn't be bothered to convert them to .cdi
+format.
+
+- ----------------------------- -
+
+
+Credit
+Genius for the release of this game
+
+
+Greets
+Gosseyn , Rayearth , blibbero , NU-NRG & all contributing members of Sega Palace
+    

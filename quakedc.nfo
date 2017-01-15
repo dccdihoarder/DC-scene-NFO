@@ -1,0 +1,43 @@
+ .---------------------------------------------------------------------------.
+ |                                                                           |
+ |                      QuakeDC (c) Titanium Studios LTD.                    |
+ |                                                                           |
+ '---------------------------------------------------------------------------'
+ .---------------------------------------------------------------------------.
+ |                                                                           |
+ |                             RELEASE INFO                                  |
+ |                                                                           |
+ |               SIZE ............ : 3x10M rar                               |
+ |               DATE ............ : 11/01/2002                              |
+ |               PLATFORM ........ : Dreamcast                               |
+ |               COUNTRY ......... : USA - NTSC                              |
+ |               WORK ............ : riv                                     |
+ |                                                                           |
+ '---------------------------------------------------------------------------'
+ .---------------------------------------------------------------------------.
+ |                                                                           |
+ |                             RELEASE NOTES                                 |
+ |                                                                           |
+ | "QuakeDC is a port of Quake to Dreamcast that we did in some spare time.  |
+ | It is fully functional except for networking and took just a week and a   |
+ | half to complete. Not too bad considering the number of things that       |
+ | needed dealing with: converting OpenGL code to Direct3D, new file I/O,    |
+ | performance issues, complicated controller support, compacted savegames   |
+ | on the VMS amongst many smaller issues. In fact it represents about as    |
+ | far as we could go without modifying the content (which we couldn't       |
+ | distribute) or making significant improvements to the engine."            |
+ |                                                                           |
+ |  what i did:                                                              |
+ |                                                                           |
+ |  - selfbootable (cdi)                                                     |
+ |  - full version of quake 1 (pak1.pak)                                     |
+ |  - joymenu 2.1 added                                                      |
+ |  - "hexedited qdc" added (midway_1.exe)                                   |
+ |  - dummyfile added.. fits for pocketcdr's :)                              |
+ |                                                                           |
+ |  i could have added music.. but this was meant for a pocketcdr, so..      |
+ |                                                                           |
+ |  anyway tested and works great. still the best quake port for dc.         |
+ |                                                                           |
+ '---------------------------------------------------------------------------'
+ 

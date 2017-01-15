@@ -1,0 +1,16 @@
+Title:         Atari800.075.cdi - Atari800dc 0.75 self-boot.
+Date:          01/18/03
+Platform:      Dreamcast
+Maker:         BB
+Game Kind:     Emu
+Media Format:  Selfboot CD-ROM
+Image Format:  1 .CDI File / Discjuggler 3.50.830-FTU (or version 4) Disc Image (http://www.padus.com)
+Compression:   n/a
+
+- Very decent collection of Atari 8-bit titles
+- DiscJuggler .cdi image. Includes over 2400 titles in ATR form.
+- ATR files broken out into subdirs
+
+How to burn
+------------------------------------------------------------------------------------
+DiscJuggler: (file-->new "Cd Image to CD Recorder"... advanced: Mode2)

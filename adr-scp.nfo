@@ -1,0 +1,255 @@
+    A      DDDD    RRRRRR
+   A A     D  DD   RR RRR
+  AAAAA    D   DD  RRRR
+ AA   AA   D  DD   RR  RR
+A       A  DDDD    RR  RRR enalin UK presents...
+
+Title        : Soul Calibur (UK) * Sound FIX *
+Company      : NAMCO
+Platform     : [ ] PS One  [ ] PS2  [x] D/C
+Origin       : [x] Europe  [ ] USA  [ ] Japan
+Video Mode   : [ ] NTSC 2 PAL  [ ] PAL 2 NTSC
+License Text : [ ] Europe  [ ] USA  [ ] Japan 
+Patcher      : Mookie
+Patch Type   : [ ] PAL 4 U  [x] PPF
+Tool Used    : [ ] PAL 4 U (V1.23Final) by VEZZ
+                   www.pal4u2000.com
+               [ ] Zapper 2K (v3.36) by PSX Cracker
+                   http://users.pandora.be/zapper2000/
+               [x] PPF 2.0 by PARADOX
+                   www.paradogs.com
+
+Supplier     : Mookie
+Release Date : 21st February 2001
+
+INFO
+~~~~
+OK, if any of you have got this game and suffer from jittering sound then this patch and instructions is made for you! In order to fix this game you have to use my patch to fix the
+1st_read.bin as well as deleting some files from the game.
+
+I would like to thank Sam Mitchell who originally translated a French Tutorial in order to work out
+how to fix the sound problem. Without that translation and info I could not have gone about creating a patch (to spare you all from having to HEX edit 31 filenames!) 
+
+This patch is aimed at people who know how to use Paradox Applyppf program as well as being
+competent at building working DC games using Dummy Files etc. Please don't contact me asking
+for step by step instructions on how to do things. There are enough sites out there with all
+the info on you need!
+
+For example;
+
+www.go.to/selfboot
+
+
+INSTRUCTIONS
+~~~~~~~~~~~~
+1) COPY all the files from the Soul Calibur backup disc to a folder on your HD called DATA.
+2) Highlight and change the file attribute of '1st_read.bin' so that it is not read only.
+3) Now delete the following files from the DATA folder:
+
+GBGM01R.P16
+GBGM02R.P16
+GBGM03R.P16
+GBGM04R.P16
+GBGM05R.P16
+GBGM06R.P16
+GBGM07R.P16
+GBGM08R.P16
+GBGM09R.P16
+
+GBGM0AR.P16
+GBGM0BR.P04
+GBGM0CR.P04
+GBGM0DR.P04
+GBGM0ER.P16
+GBGM0FR.P08
+GBGM0FR.P16
+
+GBGM10R.P16
+GBGM11R.P16
+GBGM12R.P16
+GBGM13R.P16
+GBGM14R.P16
+GBGM15R.P16
+
+SBGM01R.P16
+SBGM02R.P16
+SBGM03R.P16
+SBGM04R.P16
+SBGM05R.P16
+SBGM06R.P16
+SBGM07R.P16
+SBGM08R.P16
+SBGM09R.P16
+
+SBGM0AR.P16
+SBGM0BR.P16
+SBGM0CR.P16
+SBGM0DR.P16
+SBGM0ER.P16
+SBGM0FR.P16
+
+SBGM10R.P16
+
+After deleting the above files your DATA folder should contain 456MB of data.
+
+4) Now run applyppf from the DOS prompt and apply the 'adr-scp.ppf' patch to the '1st_read.bin' in
+   the DATA folder. You should be informed that patch was sucessful.
+
+5) Now you need to create a dummy file. The size of the file will vary depending on whether you       want to make the game self boot and what size CDR you're using. I've included the program       'Newfile' in this patch as I've found it the quickest and best utility for making Dummy Files.
+
+   For Dummy File sizes to use, see below:
+
+   Dummy File size = 203312000 for 74 Min CDR (Non Selfboot)
+   Dummy File size = 171872000 for 74 Min CDR (Selfboot)
+
+   Dummy File size = 255712000 for 80 Min CDR (Non Selfboot)
+   Dummy File size = 224272000 for 80 Min CDR (Selfboot)
+
+6) Once you've made your dummy file, either
+
+   a) use NERO to make a non selfboot game and remember to alter the properties of the dummy             file to 'low' before you start burning.
+
+   b) follow ECHELONs guide on making the game self boot. 
+
+
+
+THAT's ALL THERE IS TO IT FOLKS!
+
+
+PSX Greetz fly to:
+~~~~~~~~~~~~~~~~~
+Vezz, PSXCracker, Paradox, B.A.D., Empire of Console Backup World and GAMEFREAX. Every credit
+guyz!
+
+
+DC Greetz fly to:
+~~~~~~~~~~~~~~~~
+
+UTOPIA, Echelon, Paradox, TRSI, Stone Arts, Hooligans and anyone else out there doing stuff!
+
+
+Supplier Greetz to:
+~~~~~~~~~~~~~~~~~~
+Tyranid
+Big Al
+
+
+Greetz also fly out to all the old Atari ST scene out there!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Esp. All the other ex-members of ADRenalin UK (ST cracking days were the
+best!), Automation (Was Not Was/ Vapour)/ D-Bug (Hotknife), Cynix
+(Supernova, Skywalker and Milkybar Kid), Mug UK, The Pompey Pirates
+(Alien) and our Demo Coding friends: Persistence Of Vision (MSD, Boris and Oz),
+Chaos (Ben) and Digi Tallis.
+
+
+Current active ADRenalin UK members are:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mookie (PSX/ DC) and RAN TIDY (DC)
+
+
+Job Vacancies
+~~~~~~~~~~~~~
+
+Graphix Artist Required:
+
+If would like to design a decent nfo file for us or you can make us a good ADRenalin UK logo in 'TMD' format then get in touch. We can't pay you for your work but you will get credit in all our nfo files and if you design a TMD logo then your work will be seen on PSX.
+
+Contact us via E-mail address.
+
+
+E-mail address
+~~~~~~~~~~~~~~
+If you want to contact ADR with regards to patches etc. please use the following address:
+
+ntsc2pal_adrenalin@hotmail.com
+
+Although the E-mail does get read, we can not guarantee any personal replies as we are
+very busy! You should find most of our patches at:
+
+www.psxcopyworld.com or www.gamefreax.de
+
+If you would like a previous release that is not hosted at those addresses drop us a
+line and we'll send it off to the guyz in charge of the above mentioned sites.
+
+
+WARNING!
+~~~~~~~
+
+Anyone wanting Warez etc. and uses the above address asking for some, will have their details sent to the FEDERATION OF SOFTWARE THEFT!
+
+                                    YOU HAVE BEEN WARNED!
+                                    ~~~~~~~~~~~~~~~~~~~~~
+
+
+Releases
+~~~~~~~~
+
+NO.   TTITLE                                  COUNTRY  CONSOLE PATCH      DATE
+~~    ~~~~~~                                  ~~~~~~~  ~~~~~~~ ~~~~~      ~~~~
+001 - Builders Block                              USA  PS One  NTSC 2 PAL 04/09/00	
+002 - Spider-Man		                  USA  PS One  NTSC 2 PAL 05/09/00
+003 - Dave Mirra Freestyel BMX (BETA)             USA  PS One  NTSC 2 PAL 07/09/00
+004 - Madden NFL 2000                             USA  PS One  NTSC 2 PAL 08/09/00
+006 - Dukes Of Hazard                             USA  PS One  NTSC 2 PAL 09/09/00
+007 - Star Trek Invasion                          USA  PS One  NTSC 2 PAL 12/09/00
+008 - Marvel VS Capcom                            JAP  PS One  NTSC 2 PAL 16/09/00
+009 - Street Fighter Zero 3                       JAP  PS One  NTSC 2 PAL 18/09/00
+010 - Disney's Dinosaur                           USA  PS One  NTSC 2 PAL 22/09/00 
+011 - Libero Grande 2                             JAP  PS One  NTSC 2 PAL 22/09/00
+012 - Ms Pac-Man Maze Madness                     USA  PS One  NTSC 2 PAL 22/09/00
+013 - MTV Skateboarding                           USA  PS One  NTSC 2 PAL 22/09/00
+014 - NFL Blitz 2001                              USA  PS One  NTSC 2 PAL 22/09/00
+015 - NHL Faceoff                                 USA  PS One  NTSC 2 PAL 22/09/00
+016 - Polaris Snocross                            USA  PS One  NTSC 2 PAL 22/09/00
+017 - The Land Before Time                        USA  PS One  NTSC 2 PAL 22/09/00
+018 - Who Wants To Be A Millionaire 3rd Edition   USA  PS One  NTSC 2 PAL 22/09/00
+019 - Dino Crisis 2                               USA  PS One  NTSC 2 PAL 30/09/00
+020 - Army Men World War: Land, Sea, Air          USA  PS One  NTSC 2 PAL 01/10/00
+021 - Frogger 2: Swampy's Revenge                 USA  PS One  NTSC 2 PAL 02/10/00
+022 - Peter Jacobson's Golden Tee Golf            USA  PS One  NTSC 2 PAL 02/10/00
+023 - ESPN GameNight MLS 2000                     USA  PS One  NTSC 2 PAL 02/10/00
+024 - Nascar 2001                                 USA  PS One  NTSC 2 PAL 02/10/00
+025 - Real Racing Toyota                          JAP  PS One  NTSC 2 PAL 02/10/00
+026 - Tiggers Honey Hunt                          USA  PS One  NTSC 2 PAL 02/10/00
+027 - Bomberman Party Edition                     USA  PS One  NTSC 2 PAL 05/10/00
+028 - World Destruction League Thunder Tanks      USA  PS One  NTSC 2 PAL 10/10/00
+029 - Vampire Chronicles                          JAP  DC      RGB FIX    31/10/00
+030 - ATV: Quad Power Racing			  USA  PS One  NTSC 2 PAL 12/11/00
+031 - Gundam Battle Assault                       USA  PS One  NTSC 2 PAL 12/11/00
+032 - Galaga Destination Earth                    USA  PS One  NTSC 2 PAL 12/11/00
+033 - Prince Naseem Boxing * PDX ISO CRACK * PPF  EUR  PS One  NTSC 2 PAL 12/11/00
+034 - Rugrats In Paris (The Movie)                USA  PS One  NTSC 2 PAL 12/11/00
+035 - Sheep                                       USA  PS One  NTSC 2 PAL 12/11/00
+036 - Tonka Space Station                         USA  PS One  NTSC 2 PAL 12/11/00
+037 - Tiger Woods PGA Tour Golf (2001)            USA  PS One  NTSC 2 PAL 20/11/00
+038 - Nascar Heat                                 USA  PS One  NTSC 2 PAL 21/11/00
+039 - The Dukes Of Hazard II                      USA  PS One  NTSC 2 PAL 21/11/00
+040 - Alien Resurrection                          USA  PS One  NTSC 2 PAL 22/11/00
+041 - 007 Racing                                  USA  PS One  NTSC 2 PAL 22/11/00
+042 - Woody Woodpecker Racing                     USA  PS One  NTSC 2 PAL 23/11/00
+043 - Final Fantasy IX                            USA  PS One  NTSC 2 PAL 23/11/00
+044 - Batman Beyond Return Of The Joker           USA  PS One  NTSC 2 PAL 29/11/00
+045 - Chicken Run                                 USA  PS One  NTSC 2 PAL 29/11/00
+046 - Harvest Moon Back To Nature                 USA  PS One  NTSC 2 PAL 29/11/00
+* 047 - Looney Tunes Racing                         USA  PS One  NTSC 2 PAL 30/11/00 *
+048 - Monster Rancher Hop 'A' Bout                USA  PS One  NTSC 2 PAL 30/11/00
+049 - Power Strike Pro Beach Volleyball           USA  PS One  NTSC 2 PAL 30/11/00
+050 - RC DE GO!                                   USA  PS One  NTSC 2 PAL 30/11/00
+051 - San Francisco Rush Extreme Racing           USA  PS One  NTSC 2 PAL 30/11/00
+052 - Supercross 2001                             USA  PS One  NTSC 2 PAL 30/11/00
+053 - Tom & Jerry Housetrap                       USA  PS One  NTSC 2 PAL 30/11/00
+054 - Future Cop L.A.P.D.                         USA  PS One  NTSC 2 PAL 06/12/00
+055 - Championship Surfer                         USA  PS One  NTSC 2 PAL 16/12/00
+056 - Dragonball GT Final Bout                    USA  PS One  NTSC 2 PAL 16/12/00
+057 - Incredible Crisis                           USA  PS One  NTSC 2 PAL 16/12/00
+058 - Persona 2                                   USA  PS One  NTSC 2 PAL 16/12/00
+059 - The Lion King: Simba's Mighty Adventure     USA  PS One  NTSC 2 PAL 21/01/01
+060 - Ducati World                                USA  PS One  NTSC 2 PAL 22/02/01
+061 - Ford Racing                                 USA  PS One  NTSC 2 PAL 03/02/01
+062 - Soul Calibur                                UK   DC      Sound Fix  21/02/01
+
+* FAULTY - Reported as NOT WORKING *
+
+Mookie of ADRenalin UK
+------21/02/2001------

@@ -1,0 +1,155 @@
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+ßÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄß
+ß                                                                             ß
+ß        _______________       ______    _____       _______________________  ß
+ß       /   _____    /  /     /  /  /   /     \     /   _____    /  ____   /  ß
+?      /   /_____/  /  /     /  /  /   /   ____\   /   /____/   /  /___/  /   ?
+ß     /   _________/  /     /  /  /    \   \      /   /____/   /     ____/    ß
+ß    /   /        /  /     /  /  /      \   \    /   /    /   /      \        ß
+ß   /   /        /  /     /  /  /        \   \  /   /    /   /   /\   \       ß
+ß  /   /        /  /_____/  /  /__________\   \/   /    /   /   /  \   \      ß
+?  \  /         \          /\        /\       /\  /     \  /\  /    \  /      ?
+ß   \/           \________/  \______/  \_____/  \/       \/  \/      \/       ß
+ß                                                                             ß
+ß                                                                             ß
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+ßßß                                                                         ßßß
+ßßß                    P u l s a r   T r a v e l e r s                      ßßß
+ßßß                                                                         ßßß
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß|ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+                                                         
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß|ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß                 
+    
+    ÍÍÍÍÍÍÍÍÍÍ      Head Hunter Pal Multi REPACK Cd 2 Fix       ÍÍÍÍÍÍÍÍÍÍ
+                                                                        
+    Supplier   : PulSar                      Origin...: Pal
+    Craker     : PulSar                      Released : November 11th, 2001
+    Packager   : PulSar                      Genre    : Action / Adventure
+    Platform   : Sega Dreamcast (DC)         Format   : Files & Instructions
+    Language   : EN/FR/SP/DE                 Files    : 2
+ 
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß|ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+    			                                 
+    ÍÍÍÍÍÍÍÍÍÍÍÍ             RELEASE INFORMATION             ÍÍÍÍÍÍÍÍÍÍÍÍ
+
+    It seems that only one cinematic was checked on Head Hunter CD2 and we
+    have ripped it off :( lucky us :).
+    There's only 24 hours in a day, and we can't change that. We hope
+    that people with brain can understand that we can't sit around on
+    our couches and playtest games for a week or two and make sure
+    that every single little option or cinematics work.
+    Because of that, the enduser was being unable to finish CD2.
+    Once this fix is applied on the disc, you will be able to fully enjoy 
+    this amazing game.
+    Follow these detailed fix instructions in Windows 9X to fixup your copy:
+
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß|ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+                                                             
+    ÍÍÍÍÍÍÍÍÍÍÍÍ                  INSTRUCTIONS                ÍÍÍÍÍÍÍÍÍÍÍÍ                                         
+   
+    1. Make directories on your hard disk (X:)
+          X:\HH2 and X:\HH2\DATA.
+
+    2. Unrar all of the files from PlS-HH2F.rar and proceed with 
+       the other volume PlS-HH2F.r00 (if you use WinRAR) whereever
+       you want.
+
+    3. Run CDmage.exe (http://cdmage.orcon.net.nz/frames.html).
+       Click on FILE/OPEN, choose DiscJuggler CD Image (*.cdi) as
+       image type and choose your file PlS-HH2.cdi
+       Choose the 2nd Session ISO image and open it, then open Track 2.
+       Extract all of the datas to X:\HH2\DATA.
+
+       Alternately you can copy all of the files from a burned HH Cd2
+       CD-ROM to your hard disk for this step, but don't forget to
+       remove "read only" option on the 1ST_READ.BIN file.
+ 
+    4. Once the files of the fix are extracted on your desired folder:
+       Place SCENE63_63A.4XM into the X:\HH2\DATA\MOVIES directory. (see Note)
+       Place SCENE73_75.4XM into the X:\HH2\DATA\MOVIES directory.
+       Place all the others files into the X:\HH2 directory.
+       Move the file X:\HH2\DATA\1ST_READ.BIN into X:\HH2 directory.
+
+       Note : If your burner is capable doing overburning with
+       CDR-Win, you can keep the original SCENE63_63A.4XM file.
+       
+    5. Now you have to follow the Dreamcast Self-Boot Tutorial (ECHELON)
+       We have chosen here the CDRWIN Method:
+      
+      a) Fire up CDRWIN.
+         Goto the first icon on the top left: "Record Disc"
+      b) Click the icon in the top right corner: "Load tracks"
+      c) Click add, then choose the file AUDIO.RAW in your X:\HH2 dir.
+      d) Click the tab "Open New Session" near the bottom.
+      e) Burn this CD.
+
+    6. Find out the Bus ID# of your CD-Recorder if you have not
+       done so yet.
+       Now run the following command:
+           cdrecord -dev=x,x,x -msinfo
+
+       (where x,x,x is the Bus ID# of your CD Burner).
+       It will spit out a number in the form x,y. Normal values are
+       0,11700 or 0,11702 for a CD which only has AUDIO.RAW burned
+       on the 1st session.
+
+    7. Run the program BINHACK.EXE.
+       When it prompts you for the Binary file to modify, enter :
+           1ST_READ.BIN
+       Now it prompts you the BootSector, enter :
+           IP.BIN
+       It will ask you for the the -msinfo number that CDRECORD gave
+       you in the last step (11700 or 11702). 
+
+       (Side Note: Only input the 2nd Number that MSINFO gave you,
+       Ex. If it gave you: 0,11702, Input 11702 when BINHACK prompts
+       you for the MSINFO number.)
+
+    8. Move the patched 1ST_READ.BIN in X:\HH2\DATA.
+       Run 11700.BAT or 11702.BAT, depending on what MSINFO gave you.
+       When the compilation is finished press a key so it will
+       automatically patch IP.BIN as the bootsector on data.iso.
+
+    9. Goto CDRWIN Tools -> Record ISO9660 Image. Pick X:\HH2\data.iso
+       as your ISO image. Check "Open New Session", and make
+       sure Finalize/Close Session and Write Postgap are also checked.
+       Open the dropdown menus and choose CDROM-XA and MODE2. Now, burn
+       this image at your desired speed.
+ 
+You now have a 100% working Head Hunter Cd2.
+Our apologies for the mistake.
+
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß|ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+    
+    ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ            NOTES           ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ  
+
+   We are looking for dumps/affils/suppliers/etc... (FR or other regions).
+   IF you can help please contact us.
+
+   Thanks to PACLESS to have find this problem.
+   Thanks to SVTX to have test this patch.
+   Thanks to people who have joined us !
+
+   If you want virtual sex on EfNet you can pm cALY... Forget this !
+   cALY you are welcome :)
+
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß|ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+
+    ÍÍÍÍÍÍÍÍÍÍÍÍ                   CONTACTS                    ÍÍÍÍÍÍÍÍÍÍÍÍ 
+
+   E-MAiL :   pulsarteam@hotmail.com 
+
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß|ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+
+    ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ        GROUP GREETZ        ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ  
+
+   ECHELON, KALISTO, EURASIA, FFF , WIPICE ,Lightforce, High Society, ...         
+
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß|ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+
+                           NFO by MaxC - 19/04/01
+
+                   ßßßßßßßßßßßßßßßßßßßß|ßßßßßßßßßßßßßßßßßßßß
+
+
+

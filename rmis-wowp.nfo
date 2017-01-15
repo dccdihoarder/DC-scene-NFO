@@ -1,0 +1,42 @@
+|{v_v} presents the 80's MAME WOWPack ROM Disc|
+.---------------------------------------------'
+
+,--------------------------------.
+|Creator: {v_v}                  |
+|Size: 14.3x9 (126MB)            |
+|Release Date: March 11th, 2004  |
+|Console: Dreamcast              |
+'--------------------------------'
+
+There are 852 ROMs available to play.  The WOWPack MAME port to 
+Dreamcast was done by Ian Michael.  I used Wish List File Finder 
+to move roms from a "master list" of working games to the roms folder.  
+You can also swap seperate rom discs in.  
+Read the WOWPack readme for other information.
+
+I copied my entire "SNAP" dir to this disc.  This will have snapshots 
+of games that aren't currently supported, but at least it should include 
+a snapshot for all the games that ARE supported.
+
+You can put this disc in your PC and copy the MAME roms to your hard drive 
+if you want to play them on your PC.  Most of them should work just fine.  
+
+You can grab a copy of MAME at http://www.mame.net 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Controls & Info
+
+To insert coins  press( start) and (up) on the dc controler 
+To pause the game at any time press (start) and (y) 
+To rescan the cd Press (B) on the menu screen 
+Press (a) to scroll down the config menu 
+
+Turn audio throttle off for more speed
+Play with the settings and you should be able to get most games working
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+-----------------------------------------------------------------------
+
+NFO made with..... notepad.exe
+
+{v_v}
+#ROMS-ISOS

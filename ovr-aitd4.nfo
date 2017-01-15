@@ -1,0 +1,59 @@
+==============================================================================
+==================  Alone in the Dark - The New Nightmare  ===================
+==============================================================================
+
+= File Info =
+
+Source : TOSEC GDI
+Region : NTSC (En)
+Released : 11/8/08
+
+CD's / Size : 2 cd's / 700mb
+CD 1 Filename / rar's : ovr-aitd4-cd1.r00 / 38 rars
+CD 2 Filename / rar's : ovr-aitd4-cd2.r00 / 39 rars
+
+Platform : Sega Dreamcast (DC)
+Format : CDI ( Alcohol %120 || Disc Juggler )
+
+==============================================================================
+
+= Release Notes =
+
+This release is my landmark for 4Xm movie encoding; previous groups had major
+trouble figuring out this video codec.  Due to this fact, GeNiuS decided to
+split this game onto 4 cd's, and still ripped out intro movie.  PulSar ended
+up ripping out almost every movie.  I mean no disrespect to previous groups,
+simply explaining why I have chosen to make this release; not a single file
+has been ripped out and it all fits nicely onto 2 cd's. 
+
+Due to the fact that this disc requires LBA of 45000, it was necessary to use
+1st session for game data aswell, using a small dummy file to pad data to LBA
+45000.  It was possible to retain original file sort across both sessions of
+disc, but this game specifically has trouble loading the .XA files from 1st 
+session. So instead I filled the first session with 4Xm movies, then retained
+original file sort in 2nd session, minus the data in first session.
+
+This rip was a beast, so I hope you all enjoy.
+
+Ripped: 
+Nothing
+
+Downsampled:
+1 adx audio track downsampled from 44khz stereo to 44khz mono
+On disc 1 7 of 29 4Xm movies have been downsampled
+On disc 2 25 of 27 4Xm movies have been downsampled
+On disc 2 10 largest .XA downsampled from 22khz mono to 16khz mono
+
+Technical 4Xm Downsample Info:
+Video resolution changed from 640x320 to 320x160 ( 1/4 original size )
+Video bitrate reduced to about 1/3 - 1/5 original size
+Audio changed from 44khz stereo 4XADPCM to 44khz mono 4XADPCM
+
+Other: 
+All .XA are simply AFS and have been losslessly compressed using AFS Compactor 
+
+==============================================================================
+==        Respect to TOSEC group for providing high-quality dumps           ==
+==============================================================================
+  11/8/08                                                          -OVERRiDE
+==============================================================================

@@ -1,0 +1,43 @@
+
+               ллл   ллл  лллллл  ллллллл  ллллллл   лллллл   лллллл
+               лллл лллл лллллллл лл    лл лл    лл лл    лл лл
+               лл  л  лл лл    лл лл    лл лл    лл лл    лл лл   лл
+               лл     лл лллллллл лл    лл лл    лл лл    лл лл    лл
+               лл     лл лл    лл лл    лл лл    лл лл    лл лл    лл
+               лл     лл лл    лл ллллллл  ллллллл   лллллл   лллллл
+
+   <------------------------------------------------------------------------>
+   |  Presents :                                                            |
+   |                                                                        |
+   |  Game: Trigger Heart Exelica - 60 Hz PAL patch                         |
+   |                                                                        |
+   |  Released : 25/03/07                                                   |
+   |  Platform : Dreamcast                                                  |
+   |  Format : PPF 3.0                                                      |
+   |                                                                        |
+   +--- Release Notes ------------------------------------------------------+
+   |                                                                        |
+   |    This is a small PPF Patch for Dolmexica release of Trigger Heart    |
+   |    Exelica. The game works on PAL DCs but with the dreaded 50 Hz       |
+   |    and large borders. By using this patch you can convert it to        |
+   |    60 Hz and enjoy it as the rest of the world!                        |
+   |                                                                        |
+   +--- Usage --------------------------------------------------------------+
+   |                                                                        |
+   |    applyppf3 a dol-the.cdi mdg-the.ppf                                 |
+   |                                                                        |
+   |    The command line version of applyppf3 is included because           |
+   |    paradogs.com domain seems to have expired and I have no idea if     |
+   |    it's coming back or not. Feel free to find the GUI version if you   |
+   |    are too lame to use the one supplied.                               |
+   |    Remember that the patch was designed for and tested on the original |
+   |    unmodified dol-the.cdi. It may or may not work on a re-rip (bleh).  |
+   |                                                                        |
+   +--- Greets -------------------------------------------------------------+
+   |                                                                        |
+   |   -Dolmexica for letting out another fine game.                        |
+   |   -The rest of the groups, old and new.                                |
+   |   -The companies that still make games for the DC                      |
+   |    so long after it was pronounced dead!                               |
+   |                                                                        |
+   <------------------------------------------------------------------------>

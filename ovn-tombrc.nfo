@@ -1,0 +1,25 @@
+
+Tomb Raider Chronicles (C) Eidos & CORE Design
+-----------------------------------------------------------------
+11700 to 11702 patch              by: OvenMitt
+
+1) use DeXt's cdirip on e-tombrc.cdi
+2) Patch TData02.iso with ovn-tombrc.ppf
+3) cdrecord -v -dev=0,6,0 speed=2 -multi -audio TAudio01.raw 
+       (file is TAudio01.wav in win9x/nt/2k)
+4) cdrecord -v -dev=0,6,0 speed=8 -xa1 TData02.iso
+   (your dev # may be diff, do `cdrecord -scanbus` to find out)
+
+cdirip                            ->   http://cdirip.cjb.net
+ppf patching software and sources ->   http://www.paradogs.com
+more info and other patches       ->   http://xeal.cjb.net
+
+NOTE: This is my first attempt at a ppf patch.
+      Don't email me asking how this works, 
+      go to the above web sites to find out.
+
+-OvenMitt
+
+ovenmitt@theoven.org
+-----------------------------------------------------------------
+

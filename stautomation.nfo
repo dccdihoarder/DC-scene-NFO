@@ -1,0 +1,13 @@
+This disk contains the Atari ST emulator DCaSTaway, release candiadate 3. It also contains the complete Atari Tosec Automation Society compilation disks.
+Although this is a RC3 release, it runs just about everything. I put this disk together using TOS 1.0 rom. I used this version because it has the highest compatablity with the games. There are a few STE only games on a few of the disks, these games won't work. I included a text file with a complete list of all disks and their contents. I hope everyone enjoys this. If I get enough positive feedback I'll put together other compilations such as Adrenalin UK, D-Bug, and Pompey Pirates.
+
+- Mouse & Keyboard Dreamcast supported.
+- Mouse is emulated with analog pad + Y,B buttons.
+- AutoFrameskip ( if needed) for real speed.
+- Joystick is emulated with digital pad + A,X buttons.
+- Virtual Keyboard with triggers L-R.
+- X button Map a ST-key using X button under Virtual Keyboard
+
+
+Waveblaster
+

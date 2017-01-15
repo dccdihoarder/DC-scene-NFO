@@ -1,0 +1,50 @@
+     
+                  ___.   _______             _______                 
+              __ _\_ |__ \   _  \       ____ \   _  \   ______ ______
+             |  |  \ __ \/  /_\  \     / ___\/  /_\  \ /  ___//  ___/
+             |  |  / \_\ \  \_/   \   / /_/  >  \_/   \\___ \ \___ \ 
+             |____/|___  /\_____  / /\\___  / \_____  /____  >____  >
+                       \/       \/  \/_____/        \/     \/     \/ 
+
+
+ 
+  Presents :
+
+	Powerstone 2 USA Kalisto selfboot release PAL FIX
+	
+
+
+  Release Note :
+
+	Here's a PPF to fix the Kalisto release of Powerstone2. This game freezes 
+	if you select the 60 Hz mode so here is the patch that correct this problem.
+
+ 	
+
+  Patch Info :                                                          
+
+	You need to apply this patch on the Original Powerstone2 CDI file.
+	Use ppfOmatic or applyppf.exe :
+
+	applyppf.exe KAL-PS2U.cdi ub0_pow2.ppf
+
+ 
+	
+  Personal note :
+
+	I am not a new group or something similar in the dc scene, I just want to
+	make a ppf for those who don't know how to use a hexa-editor. This is my                    
+       first and maybe my last contribution here.
+
+
+
+  Greets:                                                
+
+	Sorry no greetz!!!!!
+
+
+
+Bye
+  
+
+ub0.g0ss

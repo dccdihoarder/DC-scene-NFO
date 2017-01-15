@@ -1,0 +1,17 @@
+----------------------------------------------------------------
+
+Tony Hawk Pro Skater 2
+This will allow you to burn the second session at a start lba of 11702 instead of 11700
+
+Use Cdirip to create Tdisc.cue TAudio01.raw and TData02.iso from e-thp2.cdi :
+
+1) Patch Tdata02.iso with K-THPS2.ppf
+2) Now you can use cdrwin method or if your burner has only disc-at-once recording 
+   use cdrecord method . 
+----------------------------------------------------------------
+
+Patch by Krydorn from instructions by Xeal.
+
+ppf patching software can be found at www.paradogs.com
+
+xeal.cjb.net

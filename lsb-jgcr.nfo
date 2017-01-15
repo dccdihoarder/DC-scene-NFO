@@ -1,0 +1,48 @@
+    LockShockBarrel Presents:
+
+      Game.....: Jet Grind Radio Internet Fix and Costume Change (C) Sega
+
+      Origin...: USA - NTSC           -  Filename.....: LSB-JGRC.RAR
+      Released.: January 7th, 2001    -  Format.......: -
+      Platform.: Sega Dreamcast (DC)  -  CD(s)........: -
+      CD1 Info.: 1 RAR                -  Ripped.......: -
+
+    - --- Release Notes ------------------------------------------------>
+
+    This fixes the Internet function of the echelon release and also
+    introduces a costume change to those of Jet Set Radio (JAP), notibly
+    Cube's long sleeves costume which looks much cooler.
+    To apply the changes follow the following steps:
+    1.  Dig up your Jet Grind Radio, and copy all the data to some empty
+        directory (e.g. data)
+    2.  Replace the Player.afs in JETRADIO directory with the one in this
+        rar.
+    3.  Copy JGRNET.EXE to the data directory, and run it there.
+    4.  Uncheck the Backup Box.
+    5.  Keep pressing Next until the program finishes.
+    6.  Delete JGRNET.EXE from the data directory
+    7.  In command prompt in parent directory of data, type: 
+        mkisofs -C 0,0 -l -V JGR_CUBE -o data.iso data
+    8.  Burn data.iso generated with CDRWIN under Record ISO9660 Image
+        with settings CD-XA, Mode 2. Make sure Finalize Session, Write 
+        Postgap is checked. Tick Open New Session.
+    9.  Then burn selfboot.iso included in this rar with CDRWIN under
+	Record ISO9660 Image with settings CD-XA, Mode 2. Make sure 
+        Finalize Session, Write Postgap is checked. Uncheck Open New 
+        Session.
+    10. After all these work, pop the CD into ur DC and enjoy a nice old
+        game with a bit of a difference.
+
+    - ---Special Thanx ------------------------------------------------>
+
+    - to Echelon for ripping us Jet Grind Radio, and for the new selfboot
+      method
+    - to the group who ripped Jet Set Radio (was it Kalisto?? i forgot)
+    - to loser @ www.loser-console.com for information on afs file format
+    - Big big thanx to Sega for bringing such a good game
+
+
+    contact me at lock_shock_barrel@hotmail.com 
+    (doubt any of u will wanna though)
+
+    - ---[LockShockBarrel - cant think of a good tagline?!]-------------

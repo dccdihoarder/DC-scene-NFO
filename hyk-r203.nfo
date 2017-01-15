@@ -1,0 +1,68 @@
+
+          Title....: RoomMania #203     
+
+          Supplier.: Hykan         -  Date.....: 30/09/2005
+          Selfboot.: Hykan         -  Genre....: Breeding
+          Platform.: SEGA DC       -  Files....: 24x20MB
+          Origin...: JAP/NTSC      -  Filename.: hyk-r203.partxx.rar
+          Type.....: .nrg 99min    -  Ripped...: See note
+                                                                        
+________________________________________________________________________________
+
+  Disk info:
+- ----------------------------- -
+
+http://www.sega.co.jp/dc/db/000111.html
+http://www.gamefaqs.com/console/dreamcast/data/250622.html            
+
+
+  Release Notes                                             
+- ----------------------------- -
+
+The game has been ripped and tested to be bootable, worked pass the title screen
+and fooled around for a few minutes without hanging. Since I dont understand
+Japanese, thats all I can say about this rip.
+
+The test CD was burnt with Nero 6.6.0.13 DAO at 4X speed, overburnt to 99 
+minutes.
+
+                                
+  Rip notes (technical)                                            
+- ----------------------------- -
+*The following notes are a bit technical and is useless to 99% of the users.
+*The info is intended for technical users who know what they are doing and if
+*they found anything wrong with my procedures, they can correct me or perhaps
+*release a ppf.
+                              
+The game is too big to fit on a 99min CDR without downsampling: 
+ CF01.SFD, CF02.SFD, CF03.SFD are downsampled from 3222 to 800kbps
+ CD.BIN is downsampled from 22050 to 11025Hz.
+
+Like D2, there are timing sensitive files that need to be pushed to the outer
+edge of a CDR. The prime suspects are those *.PAC files and of course *.AFS
+files. The AFS files are huge and there are over a thousand PAC files. I just
+made a rough sorting, burnt to CDR and it worked for now but I wont know if it
+wouldnt hang deeper into game play - at least you know why if it happened.
+
+If you are desperate for 80min CDR, you may try to downsample RADIO.BIN and
+WORDS.BIN (the originals are already at 22050 mono - audio will not sound good).
+That will give you an image of 81 to 82 minutes. Most 80min 730M CDRs should be
+able to handle this size.
+
+Note: 
+mgr-r203 removed CF02.SFD and CF03.SFD! TV.BIN was zeroed out also!!
+
+
+Final Note:
+Like D2, The image was created with a variation of Echelon's method and hex
+edited directly into Nero format without burning to CDR first. 
+
+I rip this game just for the sake of a complete collection. I dont think I will
+touch this game again ;)
+
+- ----------------------------- -
+
+
+Greets
+Gosseyn , Rayearth , blibbero , NU-NRG & all contributing members of Sega Palace
+      

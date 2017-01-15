@@ -1,0 +1,21 @@
+Description: 
+
+DCSI is a Space Invaders arcade game emulator
+for the Sega Dreamcast home game console. 
+what's new: 
+Space Invaders Deluxe is now supported user-selectable dipswitches 
+in a simple UI user option to squish screen vertically so it all fits a few
+other little things no one will ever notice 
+ 
+Status: CPU cycle counting added for more consistant speed 
+color translucent overlay simulated 
+2 player mode now works 
+added semi-fancy title screen 
+Backdrop artwork displayed during game 
+UFO sound repeats, as it should
+
+Developer: D. Finck 
+Version: 0.4 
+Last Updated: 05-28-01 
+http://www.finck.net/dcsi/
+ 

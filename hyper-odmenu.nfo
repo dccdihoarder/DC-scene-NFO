@@ -1,0 +1,91 @@
+`----------------------------------------------------------------`
+      __   __  __    __ ______  _____  _____
+   ##|  | |  | \ \  / /|  __  ||  ___||  __ |
+  ###|  |_|  |  \ \/ / | |__/ /| |___ | |__||
+ ####|   _   |   \  /  |  ___/ |  ___||  __  \  
+#####|  | |  |   | |   | |     | |___ | |  \  \
+#####|  | |  |   | |   | |     |     || |   \  \ 
+################################################################
+`----------------------------------------------------------------`
+  ' RELEASES FOR THE FUTURE OF YOUR GAMING NEEDS! '
+`----------------------------------------------------------------`
+
+DC Application - Official Demo Menu (C) Sega
+
+Origin   : USA - NTSC              Filename(s): hyper-dmenu.rar
+Released : April 25th, 2001        Format     : Files(non-self boot)
+Platform : Sega Dreamcast (DC)     CD(s)      : 1
+CD Info  : 1 RARS/ 5 megs          Ripped     : Read Rip Notes
+CDR Media: 74/80 MINS
+
+'-----------------------------------------------------------------'
+ Release Notes -
+ 
+ Are you tired of wasting CDs having just one game/emulator/application
+ on the disc? Well here I present to you the demo menu, which is 
+ kind of user friendly. It lets you load up games with the editing
+ of the ginusi.ini file. If you look good enough at the file, you
+ may figure out how to use it, it isn't that difficult. Here is a 
+ little help that I will provide, but no help on burning it.
+ 
+ Example of what you see in ginusi.ini -
+ 
+ [ROGUE SPEAR]
+Ginsu.Path                      = \ROGUE
+Ginsu.Command                   = \ROGUE\RELEASE.BIN
+Ginsu.FirstGDDA                 = 4
+Manifest.Name                   = "RAINBOW SIX: ROGUE SPEAR"
+Manifest.Select.WellImage       = rogue.PVR
+Manifest.Select.AnimTarget07    = 175
+Manifest.Play.Path              = \ROGUE
+Manifest.Play.Command           = \ROGUE\RELEASE.BIN
+Manifest.Play.FirstGDDA         = 4
+Manifest.Play.ScreenImage       = cs_rogue.pvr
+
+Ginsu.Path is the path to game
+Ginsu.Command is the link to the executable for the game
+Ginsu.FirstGDDA is something unknown to me, I think you 
+                should set it to 1 instead of the number
+                that is there right now.
+Manifest.Name is the name of what will show up in the demo menu.
+              Make sure its typed in all caps.
+Manifest.Select.WellImage is the picture of the cover of the game
+                          you want shown on the demo menu. 
+Manifest.Select.AnimTarget07 leave this alone. Something to do with the menu.
+Manifest.Play.Path need to configure this also for the path just like Ginsu.Path
+Manifest.Play.Command is the file you want to load.
+Manifest.Play.FirstGDDA i think you should set this to 1 instead.
+Manifest.Play.ScreenImage is ( i think ) the controller setup screen.
+                          You can't edit this (well I wasn't able to
+                          edit the cs_rogue.pvr, well at least see anything to edit).
+                          
+ Well the rest of the use of this menu is up to you, I don't provide 
+ info on how to burn it, its set up right now as non-self boot. I can
+ only tell you to make sure you edit the bin files to games to make it
+ either self boot or non-self boot. Right now I provided this rip as non
+ self boot, so it would make it easy for most of you.
+ '-----------------------------------------------------------------'
+ Rip Notes -
+ 
+ Well got bored decided to go ahead and rip the crap out of 
+ one of the Official Sega Dreamcast Magazines demo discs.
+ I don't remember which issue I did, this rip has been laying around
+ for a while, so I decided to release it today. I took out all the
+ videos and stuff that was included, and all the demos, had to rip
+ that crap out too. You guys might think this rip is a piece of crap.
+ Well to tell you the truth it isn't, you can run a lot of games
+ using this demo menu.
+ '-----------------------------------------------------------------'
+  Releases -                    
+  
+  [1] Dream Passport 3 - JAP NTSC - April 29th, 2001
+  [2] Official Demo Menu - USA NTSC - April 29th, 2001
+ '-----------------------------------------------------------------'
+  Greets fly out to -
+  
+  FoD -=Fuck off or Die=- - GxG - Echelon - Kalisto - R18 - Dark City
+ 
+ '-----------------------------------------------------------------'
+  ' Treat me with respect and I will give you what I have to offer'
+ '-----------------------------------------------------------------'
+  iNFO file created by Hyper (C) 2001

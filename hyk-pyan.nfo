@@ -1,0 +1,25 @@
+
+          Title....: Proyakyu Team de Asobou Net         
+
+          Supplier.: Rayearth      -  Date.....: 08/08/2005
+          Selfboot.: Hykan         -  Genre....: Sport
+          Platform.: SEGA DC       -  Files....: 19x20MB
+          Origin...: JAP/NTSC      -  Filename.: hyk-pyan.partxx.rar
+          Type.....: CDI           -  Ripped...: Nothing
+                                                                               
+_________________________________________________________________________________
+
+  Release Notes                                                
+- ----------------------------- -                                                                                                                  
+                                                                               
+Thanks to Rayearth for supplying the raw GD rip of this game.
+
+All I did was to find the correct LBA to extract the data,
+Run DAHACK and CDDA on 1st_read.bin,
+burnt track4 of the raw data as CDDA in session one (of the Echelon's methods),
+binhack ip.bin and 1st_read.bin and burnt all the data as session 2.
+
+I have no idea if the CDDA works but acoording to Rayeath, no CDDA was ever heard 
+during game play (with original GD) anyway.
+I have never been a good gamer nor do I understand any Japanese, so all I can say 
+is the game boots normally ;)

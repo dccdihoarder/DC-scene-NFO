@@ -1,0 +1,19 @@
+MameD for Dreamcast, beta version 3  WITH Roms.
+
+Release Info:
+
+First, this is a BETA release, so don't expect every game on the disc to work well, or at all.  Many games are still 'broken' and will either reset, lock-up, or do nothing when trying to run them on your DC.
+
+Okay, this is a self-booting image of MameD for Dreamcast.  Mame and MameD are arcade emulators that can run thousands of different arcade games on your PC, and now DC.  Currently the DC version supports a few hundred, and in this build many still do not work entirely correctly.
+
+Quick instructions:  Once you've loaded a game, there will be a screen asking you to type 'ok'.  At that screen, you must press left and right on the digital pad to continue.  Also, to quit a game and return to the game selection menu, hold down the analog stick while hitting the start button.
+
+Also, on your game selection menu, press your right trigger for a list of options like screen resolution and so on.  I find that 640x480scaled mode works best for MOST games, except the vector games, which are best played at 320x240 direct.
+
+For more information on MameD, see the official site at:
+
+http://digita.mame.net/news.htm
+
+Have fun!
+
+-Sleestak Jay

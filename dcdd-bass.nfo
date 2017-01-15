@@ -1,0 +1,22 @@
+This is the classic adventure game: Beneath A Steel Sky (BASS). We offer you an easy to burn Nero image with the complete CD version of BASS running with ScummVM DC. This version features more cutscense and voices. 
+
+Features 
+The game is presented with an advanced easy to use menu. In there you can find all the information you need for the game. Directly viewable on your TV are:
+
+- An introduction and background info of the game and there creators
+- Controls and pictures on how to play BASS
+- Preview screenshots of other compatible ScummVM DC games
+- And... a complete walktrough, if you ever got stuck just have a look in the guide! 
+
+Saving 
+To save in the game press START (you'll get an in game menu), then move the cursor over save and press A. Put in a name when using the DC Keyboard or press X to use the number 5 as a name (the controller doesn't support any other characters, that's why you must choose a 5). Now press A again on save (you'll get a confirmation message on screen). When you go back to the game again later press START and move the cursor over resume - press A, move the cursor over the save name or number and press A. You should then be where you left off previously. 
+
+Notes 
+This game is running trough ScummVM DC wich is still under development. Because of the development stage it is possible you can encounter one of the following problems. You can't skip the intro when using a controller (you can skip it with a DC Keyboard). The key to skip the intro is not mapped in ScummVM DC. And it is not possible to switch to other languages. This is because the Dreamcast version of ScummVM doesn't support this (yet?). 
+
+Using the plain files 
+As an exeption we provided plain files for this release also. It is mainly for the people who can't burn the Nero image (most of the time Mac and Linux users). You have to download and add the B.A.S.S. game files manually. You can choose to add the cd version or the smaller disk version, the needed game files can be downloaded here. Just place the files Sky.dsk and Sky.dnr in the root. And burn it with a selfboot program. 
+
+Credits 
+Graphics, idea, concept, menu, covers by: DCDayDreamer
+Webpages by: Captain Skyhawk 

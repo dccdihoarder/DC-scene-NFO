@@ -1,0 +1,19 @@
+Here is the hacked linux running on the dc goto http://www.zophar.net/index.phtml for
+more info on it all i did was use the echelon selfboot kit and made it into a DJ image.
+Unrar and burn with DJ enjoy.
+
+
+This is the binary linux kernel for the SEGA Dreamcast. Unfortunatly there 
+isn't any source (yet). (I havn't written it just extracted it from an iso 
+image.) My own kernel will be availible in due time if source isn't released.
+But for now everybody can play with this one. Just use Marcus Comstedit 
+((http://mc.pp.se/dc/cdr.html) excelent site and burn it on to a CD-R.
+
+dc_linux.elf is the ELF file (for disassembling)
+1ST_READ.BIN is the scrambeld binary file that you burn on a CD-R.
+IP.BIN the bootloader also helpful to burn the CD-R
+
+/Rene
+
+
+

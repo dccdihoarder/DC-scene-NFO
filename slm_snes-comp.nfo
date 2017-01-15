@@ -1,0 +1,38 @@
+$ SNES Compilation v1.0 Built for the Sega Dreamcast.
+$ Compiled, edited, packed by Slum.
+
+## DISCLAIMER ##
+I am not responsible for anything you use this software for.  
+Please do not use this software if you do not own the original cartridge.
+By downloading this, you agree to the terms above.  If you do not agree
+with these terms, please delete this software immediately.
+
+## RELEASE NOTES ##
+- Uses the latest version of DreamSNES which is version 0.9.8.
+- Compiled a ROMS.LST file for faster loading of the roms list.
+- Added custom music (The original track that came on the emu was lame.)
+        Track Listing:
+        Diesel Boy - 65
+        Diesel Boy - Big Sparkling New
+        Diesel Boy - Dog on the Tuckerbox
+        Goldfinger - Happy
+
+## MEDIUM INFO ##
+- Unpack with Winrar
+- Use the latest version of Disc Juggler to burn the images
+- Please burn at the slowest speed possible (Preferrably 2X), makes for faster loading.
+- The image is SELF-BOOTABLE, please do not try and use a BOOT CD.
+- Enjoy!
+
+## GREETS ##
+Big shouts to: {v_v}, Sully, YTC,  #ROMS-ISOS on Efnet.
+Thanks to {v_v} for releasing his NesterDC compilation, which inspired me to create
+this one.
+
+
+## EOF ##
+
+
+
+
+        

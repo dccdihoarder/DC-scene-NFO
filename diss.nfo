@@ -1,0 +1,22 @@
+D.I.S.S. - Dragyn's Image Slide Show
+
+JPG Image Slideshow Application for the Sega Dreamcast
+
+Developed using the free open source operating system KallistiOS.
+
+ 
+
+Current Features (V 0.8 beta):
+
+Decoding of JPG images only 
+Support for 24 bit color or Grayscale 
+Support for images up to 5120*3840 
+Automatic scaling at fixed ratios of 1:1, 1:2, 1:4, 1:8 
+Automatic centering of image 
+Next, Previous, First, Last, Blank Screen, and Quit commands 
+Images read from DISS CD or seperate JPG images CD (from /images/ dir)
+
+WARNING, I've found a problem where if you put more than 1000 images onto
+a CD, the slideshow will cause the dreamcast to reset itself after the
+load screen. I should have a fixed version without this maximum soon.
+Until then just make sure you don't burn more than 1000 images with it!

@@ -1,0 +1,106 @@
+                                --x+--------+x--
+                               (0o0+-LAN-DI-+0o0)
+                                --x+--------+x--
+                                    PRESENTS
+
+*******************************************************************************
+                 Dream Emulation Project: Famicom/NES Edition 
+*******************************************************************************
+
+-------------------------------------------------------------------------------
+                              General Information
+-------------------------------------------------------------------------------
+Type.................: Game
+Platform.............: Dreamcast
+Part Size............: 26.0MB
+Number of Parts......: 19
+Compression Format...: RAR
+File Validation......: SFV
+Image Format.........: CDI
+Burn Tested..........: Yes
+Special CDR..........: Requires 700 MB / 80 Min CDR
+
+
+
+
+-------------------------------------------------------------------------------
+                                 Release Notes
+-------------------------------------------------------------------------------
+Here is the ultimate image for Nintendo Entertainment System fans and its scene! 
+It features almost every NES and Famicom ROM out there presented in a high 
+quality menu system.
+
+# Background info on the NES, it's homebrew scene and more
+# 32 original classic NES TV commercials
+# 57 MP3 tracks, including five complete records
+# 230 NES Music ROMs featuring original compositions & remixes
+# NesterDC v6.0 (by Takayama Fumihiko)
+# FSL menu theme selector & six different menu themes to choose
+# Game Genie codes for nearly every game
+# And last but not least: over 1000 NES/Famicom ROMs are included! Even more is 
+included, I dare you to try and find all the stuff not mentioned here! 
+
+-------------------------------------------------------------------------------
+                                   Usage
+-------------------------------------------------------------------------------
+Controls for the emulator:
+
+Right trigger +  X - System menu: reset current game and select FDS disk side as 
+well as Game Genie code acsess
+
+Question: How can I access and use a Game Genie code when running NesterDC?
+Answer: After you loaded a game and you see the game running, hold the right 
+trigger and press x. This brings you in the cheat menu. Now select Load Genie, 
+you now see your genie folder with all the games. Browse the game you are 
+running and press A. Choose a code and press start. This brings you back to the 
+game. If you want you can use select another code, this can also be done when 
+you are already running the game. The codes you have choosen can't be undone, 
+untill you reload the game. And be aware some codes don't work well with each 
+other.
+
+Question: What is FDS and how can I use it?
+Answer: FDS stands for Famicom Disk System. It was a perhepial mainly used in Japan to play NES games on a disk. NesterDC supports FDS roms, to get it working you need the disksys.rom. Put that file in the same folder as your FDS games. Most games are spanned over 2 sides (side A and B) and at some point you must flip the disc. In NesterDC you can do that by pressing the right trigger + X.
+
+----------------------------------------------------------------------------
+--->                        Dreamcast Releases
+
+------------------------------------------------------------------------------->
+01. Bleem!cast "Battle Arena Toshinden"
+02. Bleem!cast "Battle Arena Toshinden 2"
+03. Bleem!cast "Battle Arena Toshinden 4"
+04. Bleem!cast "Ray Storm"
+05. Bleem!cast "Ray Crisis"
+06. Bleem!cast "Intelligent Qube"
+07. Bleem!cast "PepsiMan the Running Hero"
+08. Bleem!cast "Star Gladiator Episode 1"
+09. Bleem!cast "Tekken"
+10. Bleem!cast "Adidas Power Soccer 98" 
+11. Bleem!cast "Bravo Air Race"
+12. Genesis Plus X 700
+13. Bleem!cast "Dragon Ball Z: Idainaru Dragon Ball Densetsu"
+14. Bleem!cast "Cowboy Bebop"
+15. Bleem!cast "Klonoa: Door to Phantomile"
+16. Bleem!cast "Trap Gunner"
+17. Bleem!cast "N20: Nitrous Oxide
+18. Bleem!cast "IS Internal Section"
+19. Bleem!cast "Crazy Climber 2000"
+20. SMS Plus DC 1000
+21. MAME4ALL 1000
+22. Dream Emulation Project: NES/Famicom Edition with ROMs
+23. Neo4All CD "Fatal Fury 2" 
+24. Neo4All CD "Pulstar"
+25. Bleem!cast "Elemental Gearbolt"
+26. Bleem!cast "Hot Shots Golf"
+27. Bleem!cast "Macross VF-X 2"
+28. Bleem!cast "G Darius"
+29. Dream Emulation Project: SMS/GG Edition with ROMs
+30. Obsidian 650
+31. Bleem!cast "Thrill Kill"
+32. Bleem!cast "Bushido Blade"
+33. Bleem!cast "Rakugaki Showtime"
+34. NEO4ALL/CD Combo Pack
+35. NEO4ALL/CD Combo Pack Vol.2
+36. NEO4ALL/CD Combo Pack Vol.3
+37. NEO4ALL/CD Combo Pack Vol.4
+
+What's Next?

@@ -1,0 +1,73 @@
+DCStella is the port of Stella Atari 2600 VCS Emulator to the Sega Dreamcast console
+
+http://our-arca.de/DCstella/
+
+Readme section
+Controller setup
+In the menu: 
+up / down - guess! 
+left / right - previous / next page 
+A - load game 
+During game: 
+dpad or joystick - move 
+A - fire 
+(X - Booster Grip Trigger) 
+(B - Booster Grip Booster) 
+Start - toggle pause menu 
+On first controller: 
+R + X - game select 
+R + Y - game reset 
+R + B - toggle b/w - color 
+Keypad is mapped to Keyboard: 
+ Atari    mapped to  mapped to
+ Keypad     left       right
++-+-+-+    +-+-+-+    +-+-+-+
+|1|2|3|    |1|2|3|    |8|9|0|
++-+-+-+    +-+-+-+    +-+-+-+
+|4|5|6|    |Q|W|E|    |I|O|P|
++-+-+-+    +-+-+-+    +-+-+-+
+|7|8|9|    |A|S|D|    |K|L|;|
++-+-+-+    +-+-+-+    +-+-+-+
+|*|0|#|    |Z|X|C|    |,|.|/|
++-+-+-+    +-+-+-+    +-+-+-+
+
+
+Note that all keys are mentioned as on the US keyboard mapping. Other keyboard mappings may vary. For example, on german keyboard use [Ö] instead of [;] and [-] instead of [/]. 
+Format of dcstella.ini
+The format is simple:
+Key=Value
+
+The available keys are
+charset.8x8.file filename of 8x8 pixel charset 
+charset.8x16.file filename of 8x16 pixel charset 
+title.image.file filename of title image 
+title.image.xpos x position of title image 
+title.image.ypos y position of title image 
+select.image.file filename of the menu background image 
+select.image.xpos x position of menu background image 
+select.image.ypos y position of menu background image 
+select.menu.xpos x position of the rom selection menu 
+select.menu.ypos y position of the rom selection menu 
+select.menu.width width of rom selection menu in characters 
+select.menu.height height of rom selection menu in characters 
+roms.dir name of the roms directory 
+roms.list.file name of roms list file 
+profiles.dir name of the profiles directory 
+autorun.file rom file to load and start for single rom mode; this obsoletes nearly every other option except for the charset.8x8.*, title.image.* and profiles.* section 
+
+Position of images:
+zero - centered 
+positive - from left (1 is leftmost pixel) 
+negative - from right (-1 is rightmost pixel) 
+Position of menu:
+This one is the offset from the top left corner in pixel 
+Size of menu:
+This is the size of the menu in characters. If the height is negative the 8x8 charset is used instead of the 8x16 charset. 
+Format of the title and background images
+These have to be in Targa, 24Bit, uncompressed. 
+Format of Charset:
+Short: The format is the same as in the C64/C128, only sorted in ascii (at least in the 8x8 case). Each char is 8 pixels wide and stored in a byte, highest bit left. The first 8/16 bytes are the space character; the second 8/16 bytes are the "!" sign, and so on, till ascii character 127. That sums it up to 768/1536 bytes per 8/16 lines charset. If the 8x16 charset is omitted the 8x8 is used and doubled in height. 
+The issue of the rom list file
+The rom list file has the simple format:
+filename <SPACE> description <linefeed>
+all nonprintable Characters (ASCII < 32 or ASCII > 127) will be replaced with spaces. If the rom list file is missing (doesn't matter if it's the option or the file itself), the directory will be used. 

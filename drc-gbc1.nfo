@@ -1,0 +1,631 @@
+     .  . .. ... ....... ..   ... .. .......      .   . .. ... .......
+          :    ÄÄÄÄ :     :...:__  __    ::__/|_____     ______      ::
+    ____ _.____)  / ./\___:___/_ )( _\___./__  ____/____/_ ___//_____ :::
+     \       _   /__/     \ ___/ | \____  \ | | _/\/___  / \       _/   .
+      \      \  /  /__    / \(   |    )/   \| |/   \ÄÄÄ\/  |      /     :
+       \     /__\  ( /___/    ___|___       \ |    /    \  |     /      :
+      //____/  /____\ \_______) sCr!(_______/_____/______\______//      .
+       .. .        :     :                     :     D r a s t i C    ::
+          :. .     .     :. ....... ... .      ::.. ...... ........:::: 
+      
+   __|____________________________________________________________________|__
+     |                                                                    |
+     |- Proudly Presents:                                                 |
+     |                                                                    |
+     |- Game.....: GameboyColor ROM Collection 1-550                      |
+     |                                                                    |
+     |- Origin...: Europe               -  Filename.....: DrC-GBC1 (19)   |
+     |- Released.: 03/04/2001           -  Format.......: CDRwin          |
+     |- Platform.: PC/DC/Linux          -  CD(s)........: 1               |
+     |- CD Info..: 74 min               -  Ripped.......: see below       |
+   __|____________________________________________________________________|__
+     |                                                                    |
+     |- Release Notes:                                                    |
+     |                    						  |
+     |  550 GameboyColor Roms; unpatched and ready to load; 		  |
+     |	PC and DC Emulator on CD.                                         |
+     |									  |        
+
+	001 - Dragon Quest Monsters (JAP) - Oldskool.GB
+	002 - Tetris DX (JAP) - Eurasia.GB
+	003 - Game & Watch Gallery 2 (INT) - Eurasia.GB
+	004 - Glocal Hexcite (JAP) - Eurasia.GBC
+	005 - Warioland 2 (JAP) - Eurasia.GBC
+	006 - Pocket Bomberman (INT) - Indie.GBC
+	007 - Harvest Moon (INT) - Indie.GBC
+	008 - A Bug's Life (INT) - Eurasia.GBC
+	009 - Turok 2 Seeds of Evil (INT) - Eurasia.GBC
+	010 - Rampage World Tour (INT) - Eurasia.GBC
+	011 - Super Breakout (INT) - Eurasia.GBC
+	012 - Zelda DX - Links Awakening (INT) - Eurasia.GBC
+	013 - Quest for Camelot (INT) - Indie.GBC
+	014 - Frogger (INT) - Eurasia.GBC
+	015 - Super Blackbass Pocket 3 (JAP) - Eurasia.GBC
+	016 - Robopon Sun (JAP) - Eurasia.GBC
+	017 - Sanrio Timenet Past (JAP) - Eurasia.GBC
+	018 - Pocket Puyo Sun (JAP) - Eurasia.GBC
+	019 - Robopon Star (JAP) - Eurasia.GBC
+	020 - Sanrio Timenet Future (JAP) - Eurasia.GBC
+	021 - Loony Tunes Twouble! (INT) - Oldskool.GBC
+	022 - Montezuma's Return (INT) - Eurasia.GBC
+	023 - Mortal Kombat 4 (INT) - Eurasia.GBC
+	024 - Zelda DX - Links Awakening (JAP) - Oldskool.GB
+	025 - Bardigun (JAP) - Eurasia.GBC
+	026 - Gameboy Wars 2 (JAP) - Eurasia.GBC
+	027 - Karamucho Sawag (JAP) - Eurasia.GBC
+	028 - Lodoss War GB (JAP) - Eurasia.GBC
+	029 - Pokemon Card (JAP) - Eurasia.GBC
+	030 - NFL Blitz (INT) - Indie.GB
+	031 - Gex Enter the Gecko (INT) - Oldskool.GB
+	032 - Bomberman Quest (JAP) - Eurasia.GBC
+	033 - Loony Tunes Twouble! (INT) - Oldskool.GBC
+	034 - Pocket Color Block (JAP) - NIL.GBC
+	035 - Pocket Bowling (JAP) - NIL.GBC
+	036 - Las Vegas Cool Hand (INT) - NIL.GBC
+	037 - Men in Black - The Series (INT) - NIL.GBC
+	038 - Rats! (INT) - NIL.GBC
+	039 - Shanghai Pocket (INT) - NIL.GBC
+	040 - Power Quest (INT) - Quasar.GBC
+	041 - Ganbare Goemon Teng (JAP) - NIL.GBC
+	042 - Pitfall Beyond the Jungle (INT) - Eurasia.GBC
+	043 - Bugs Bunny Operation Carrot (INT) - Eurasia.GBC
+	044 - Mahjong Quest (JAP) - NIL.GBC
+	045 - Monopoly (JAP) - NIL.GBC
+	046 - Harvest Moon GB (GER) - Oldskool.GBC
+	047 - Gameboy Color Demo (INT) - Paradox.GBC
+	048 - Shanghai Pocket (INT) - Oldskool.GBC
+	049 - Montezuma's Return (INT) - Oldskool.GBC
+	050 - Reservoir Rat (INT) - Oldskool.GBC
+	051 - Bugs Bunny Crazy Castle 3 (JAP) - NIL.GBC
+	052 - Zelda DX - Links Awakening (FRE) - Eurasia.GBC
+	053 - Zelda DX - Links Awakening (GER) - Quasar.GBC
+	054 - Shadowgate Classic (INT) - Eurasia.GBC
+	055 - Warioland 2 (INT) - Eurasia.GBC
+	056 - The Smurfs Nightmare (MUL) - Capital.GBC
+	057 - Kaseki Reborn II Monster Digger (JAP) - NIL.GBC
+	058 - NBA Jam 99 (INT) - Indie.GBC
+	059 - GameBoy Gallery 3 (INT) - Indie.GB
+	060 - Highway Racing (JAP) - Eurasia.GBC
+	061 - Centipede (INT) - Menace.GBC
+	062 - Glocal Hexcite (INT) - Menace.GBC
+	063 - Bugs Bunny Crazy Castle 3 (INT) - Indie.GBC
+	064 - Quest for Camelot (INT) - Quasar.GBC
+	065 - 720 Degree (INT) - Indie.GBC
+	066 - Elmo's 123 (INT) - Menace.GBC
+	067 - Poyon's Dungeon Room (JAP) - NIL.GBC
+	068 - Mahjong King (JAP) - NIL.GBC
+	069 - Beatmania GB (JAP) - NIL.GBC
+	070 - Elmo's ABCs (INT) - Menace.GBC
+	071 - Doraemon Kart 2 (JAP) - NIL.GBC
+	072 - Last Bible 1 (JAP) - NIL.GBC
+	073 - Joust & Defender (INT) - Menace.GBC
+	074 - Beast Wars (JAP) - NIL.GBC
+	075 - Miracle Of Zone (JAP) - NIL.GBC
+	076 - The Rugrats Movie (INT) - Capital.GBC
+	077 - BattleShip (INT) - Menace.GBC
+	078 - Tokimeki Culture (JAP) - Indie.GBC
+	079 - Fairy Kitty (JAP) - Indie.GBC
+	080 - V-Rally (INT) - Paradox.GBC
+	081 - Tokimeki Sport (JAP) - Menace.GBC
+	082 - Hollywood Pinball (INT) - Capital.GBC
+	083 - Monster Race 2 (JAP) - Indie.GB
+	084 - Oodorobou Jing Angel (JAP) - Indie.GB
+	085 - Oodorobou Jing Devil (JAP) - Indie.GB
+	086 - B-Daman Baku Gaiden (JAP) - Indie.GB
+	087 - Shanghai Pocket V1.1 (INT) - Oldskool.GBC
+	088 - Top Gear Pocket (INT) - Menace.GBC
+	089 - Klax (INT) - Menace.GBC
+	090 - Pocket Densya 2 (JAP) - NIL.GBC
+	091 - Power Prokun Pocket (JAP) - NIL.GBC
+	092 - Kiwame 2 (JAP) - Oldskool.GBC
+	093 - Mortal Kombat 4 (GER) - Paradox.GBC
+	094 - Shadowgate Classic v1.1 (INT) Paradox.GBC
+	095 - Klustar (INT) - Tika64.GB
+	096 - Las Vegas Cool Hand (INT) - Oldskool.GBC
+	097 - Quest Fantasy Challenge (INT) - Menace.GBC
+	098 - Logical (INT) - Menace.GBC
+	099 - Pokemon Pinball (JAP) - xeXex.GB
+	100 - Nobunaga's Ambition 2 (JAP) - Oldskool.GBC
+	101 - Last Bible 2 (JAP) - NIL.GBC
+	102 - Checkmate (JAP) - NIL.GBC
+	103 - The Legend Of River King (INT) - Oldskool.GBC
+	104 - Hamster Paradise (JAP) - Oldskool.GBC
+	105 - SD Hiryuex (JAP) - Eurasia.GBC
+	106 - Prince Of Persia (INT) - Menace.GBC
+	107 - Super Breakout (INT) - NBC.GBC
+	108 - Roadsters 98 (INT) Eurasia.GBC
+	109 - Rox (JAP) - Eurasia.GBC
+	110 - Gameboy Gallery 3 (JAP) - NIL.GBC
+	111 - Dino Breeder 3 (JAP).GBC
+	112 - Barbie Ocean Discovery (INT) - Duz.GBC
+	113 - Koushien Pocket (JAP) - Eurasia.GB
+	114 - Ohasta Yamachan & Reimondo (JAP) -Eurasia.GB
+	115 - Shougi 2 (JAP) - Eurasia.GB
+	116 - Shogi Oh (JAP) - Eurasia.GB
+	117 - Lucky Luke (INT) - Eurasia.GBC
+	118 - Black Bass Lure Fishing (INT) - Menace.GBC
+	119 - Blades Of Steel (INT) - Menace.GBC
+	120 - Monopoly (INT) - Menace.GBC
+	121 - Tabaluga (INT) - Paradox.GBC
+	122 - Logical (INT) - Paradox.GBC
+	123 - The Legend Of River King (GER) - Paradox.GBC
+	124 - Moon Patrol & Spy Hunter (INT) - Duz.GBC
+	125 - Super Mario Bros DX (INT) - Menace.GBC
+	126 - Top Gear Rally (INT) - Paradox.GBC
+	127 - Beat Breaker (JAP) - Menace.GBC
+	128 - It's A World Rally (JAP) - NIL.GBC
+	129 - NBA In The Zone (INT) - Menace.GBC
+	130 - Dropzone (INT) - Capital.GBC
+	131 - Qui Qui (JAP) - Menace.GBC
+	132 - Pocket GI Stable (JAP) - Oldskool.GBC
+	133 - Cardcapto Sakura (JAP) - Oldskool.GB
+	134 - Puchi Carat (JAP) - Oldskool.GBC
+	135 - All-Star Baseball 2000 (INT) - Menace.GBC
+	136 - Hello Kitty Magical Museum (JAP) - Menace.GBC
+	137 - Burger Pocket (JAP) - Oldskool.GBC
+	138 - International Superstar Soccer 99 (INT) - Quasar.GBC
+	139 - WWF Attitude (INT) - Menace.GBC
+	140 - Maya The Bee & Her Friends (INT) - Oldskool.GBC
+	141 - Conkers Pocket Tales (INT) - Eurasia.GBC
+	142 - Bust A Move 4 (INT) - Eurasia.GB
+	143 - VRally 99 (INT) - AGS.GBC
+	144 - Ken Griffey Jr's Slugfest (INT) - AGS.GBC
+	145 - Paperboy (INT) - Menace.GBC
+	146 - Katou 123 (JAP) - Eurasia.GBC
+	147 - ClassKing Yamazaki (JAP) - NIL.GBC
+	148 - Asterix & Obelix (INT) - Paradox.GBC
+	149 - Golf De Ohasuta (JAP) - Oldskool.GBC
+	150 - Real Baseball Continental league (JAP) - Oldskool.GBC
+	151 - Real Baseball Pacific League (JAP) - Oldskool.GBC
+	152 - Jinsei Tomedachi (JAP) - Oldskool.GBC
+	153 - Pachi Pachi Pachisurou (JAP) - Oldskool.GBC
+	154 - Kandume Monsters (JAP) - Eurasia.GBC
+	155 - Pocket Hanafuda (JAP) - Eurasia.GB
+	156 - Spy vs Spy (INT) - Menace.GBC
+	157 - Chessmaster (INT) - Menace.GBC
+	158 - Luca's Puzzle Adventure (JAP) - Newbie.GBC
+	159 - R-Type DX (INT) - Eurasia.GBC
+	160 - Hugo 2.5  (GER) - Paradox.GBC
+	161 - Tarzan (INT) - Menace.GBC
+	162 - World Soccer GB2 (JAP) - NIL.GBC
+	163 - F1 World Grand Prix (INT) - Paradox.GBC
+	164 - Pokemon Pinball (INT) - Menace.GBC
+	165 - Spy vs Spy (MUL) - Oldskool.GBC
+	166 - Hyper Olympics Track & Field GB (JAP) - NIL.GBC
+	167 - Caesar's Palace II (INT) - Menace.GBC
+	168 - Top Gear Pocket (JAP) - Menace.GBC
+	169 - Holy Magic Century (INT) - Capital.GBC
+	170 - YuGiOh! Duel Monsters II (JAP) - NIL.GBC
+	171 - A Bug's Life (INT) - Paradox.GBC
+	172 - Bugs Bunny Operation Carrot (INT) - Menace.GBC
+	173 - Centipede (INT) - Oldskool.GBC
+	174 - Frogger (INT) - Oldskool.GBC
+	175 - River Fishing 4 (JAP) - Menace.GBC
+	176 - Choro Q Hyper Custom Bull GB (JAP) - NIL.GBC
+	177 - Doraemon Walking Labyrinth (JAP) - Eurasia.GBC
+	178 - Medarot 2 - Kabuto (JAP) - Eurasia.GBC
+	179 - Medarot 2 - Kuwagata (JAP) - Eurasia.GBC
+	180 - Hello Kitty Puzzle Collection (JAP) - Eurasia.GBC
+	181 - Zelda DX v1.1 (INT) - Indie.GBC
+	182 - Survival Kids (JAP) - Menace.GBC
+	183 - Golden Goal (INT) - Paradox.GBC
+	184 - Pocket Bowling (INT) - Menace.GBC
+	185 - Burai Fighter (JAP) - Menace.GBC
+	186 - Ten Pin Bowling (INT) - Menace.GBC
+	187 - Spy vs Spy (JAP) - Oldskool.GBC
+	188 - Sangokushi 2 (JAP) - Oldskool.GBC
+	189 - Mr Fishing 2 (JAP) - Eurasia.GBC
+	190 - Chase HQ Secret Police (INT) - Menace.GBC
+	191 - Mario Golf (JAP) - Eurasia.GBC
+	192 - Bokujo Monogatari 2 (JAP) - Oldskool.GBC
+	193 - Pocket Lure Boy (JAP) - Oldskool.GBC
+	194 - Pocket Family 2 (JAP) -Oldskool.GBC
+	195 - Konchu Hakase 2 (JAP) - Oldskool.GBC
+	196 - Shadowgate Return (JAP) - Eurasia.GBC
+	197 - Mushi Club (JAP) - Eurasia.GBC
+	198 - J. League Excite Stage (JAP) - Eurasia.GBC
+	199 - Space Station Silicon Valley (INT) - Capital.GBC
+	200 - Gem Gem Monster (JAP) - Oldskool.GBC
+	201 - Azure Dreams (JAP) - Oldskool.GBC
+	202 - Kanji Boy (JAP) - Oldskool.GBC
+	203 - Animal Breeder 3 (JAP) - Oldskool.GBC
+	204 - Pachislot CR Genjin (JAP) - Oldskool.GBC
+	205 - Pitfall Beyond the Jungle (JAP) - Oldskool.GBC
+	206-  Sakata (JAP) - Oldskool.GBC
+	207 - Pro Mahjong Tsuwamono (JAP) - Oldskool.GBC
+	208 - Missile Command (INT) - Menace.GBC
+	209 - PacMan (INT) - Menace.GBC
+	210 - Bey Blade (JAP) - Oldskool.GBC
+	211 - Revelations - The Demon Slayer (INT) - Menace.GBC
+	212 - Dragon Quest Monsters V1.16 (JAP) - Oldskool.GBC
+	213 - Cardcaptor Sakura V1.0 (JAP) - Oldskool.GBC
+	214 - The King of Golf (JAP) - Oldskool.GBC
+	215 - Pokemon Yellow (ENG) - IND.GBC
+	216 - Puyo Wars (JAP) - Eurasia.GBC
+	217 - Hole In One Golf (INT) - Menace.GBC
+	218 - Looney Tunes (INT) - Menace.GBC
+	219 - Zelda DX - Links Awakening V1.1 (JAP) - Oldskool.GBC
+	220 - NBA Pro ï99 (INT) - GBL.GBC
+	221 - Backgammon (JAP) - Oldskool.GBC
+	222 - Super Mario Bros DX v1.1 (INT) - Eurasia.GBC
+	223 - Kinsekae Tales (JAP) - Oldskool.GBC
+	224 - Antz (INT) - Capital.GBC
+	225 - Power Prokun Pocket V1.1 (JAP) - GBL.GBC
+	226 - Zebco Fishing (INT) - DUZ.GBC
+	227 - Guruguru Galakedaizu [JAP] - Eurasia.GBC
+	228 - Turok 2 [JAP] - Eurasia.GBC
+	229 - Duke Nukem (INT) - Capital.GBC
+	230 - Motocross Madness 2 (INT) - Menace.GBC
+	231 - Spawn (INT) - Capital.GBC
+	232 - Yars' Revenge (INT) - Menace.GBC
+	233 - Asteroids (INT) - Menace.GBC
+	234 - Dragon Quest 1&2 [JAP] - Eurasia.GBC
+	235 - Cute Pet Shop (JAP) - Oldskool.GBC
+	236 - Crazy Bikers (INT) - GBL.GBC
+	237 - Die Maus (INT) - Paradox.GBC
+	238 - Mario Golf (INT) - Capital.GBC
+	239 - Super Robot Wars Link Battler (JAP) - NIL.GBC
+	240 - Three Lions [INT] - IND.GBC
+	241 - Tom & Jerry [INT] - Menace.GBC
+	242 - Bubble Bobble [INT] - Menace.GBC
+	243 - Front Row [JAP] - Oldskool.GBC
+	244 - Beauty And The Beast [INT] - KEL.GB
+	245 - Madden NFL 2000 [INT] - Menace.GBC
+	246 - Carmageddon [GER] - Quasar.GBC
+	247 - Sylvania Family [JAP] - Menace.GBC
+	248 - Space Invaders [INT] - Menace.GBC
+	249 - Grand Theft Auto [INT] - Capital.GBC
+	250 - Carmageddon [INT] - Capital.GBC
+	251 - Elmo in Grouchland [INT] - Oldskool.GBC
+	252 - Rugrats - Time Travelers [INT] - Oldskool.GBC
+	253 - Bullet Battlers [JAP] - Eurasia.GBC
+	254 - Ms PacMan [INT] - Menace.GBC
+	255 - Ballistic [INT] - Menace.GBC
+	256 - Wetrix GB [JAP] - Oldskool.GBC
+	257 - Evel Knievel [INT] - Capital.GBC
+	258 - Wizardry Empire [JAP] - Oldskool.GBC
+	259 - TNN Outdoors Fishing Champ [INT] - Oldskool.GBC
+	260 - Qix Adventure [JAP] - Eurasia.GBC
+	261 - Bass Master Classics [INT] - Oldskool.GBC
+	262 - Othello 2000 [JAP] - Oldskool.GBC
+	263 - Pocket GT [JAP] - Oldskool.GBC
+	264 - Super Real Fishing [JAP] - Oldskool.GBC
+	265 - Jeff Gordon XS Racing [INT] - Oldskool.GBC
+	266 - Tazmanian Devil Munching Madness [INT] - Menace.GBC
+	267 - Earthworm Jim Menace 2 The Galaxy [INT] - Menace.GBC
+	268 - Suzuki Alstare Extreme Racing [INT] - Capital.GBC
+	269 - Worms Armageddon [INT] - Capital.GBC
+	270 - Mr. Nutz [INT] - Menace.GBC
+	271 - The Legend of the River King GB [INT] - Menace.GBC
+	272 - Toy Story 2 [INT] - Capital.GBC
+	273 - Papyrus [INT] - Oldskool.GBC
+	274 - Ronaldo V Football [INT] - NBC.GBC
+	275 - Mario Golf [INT] - Eurasia.GBC
+	276 - WWF Wrestlemania 2000 [INT] - Menace.GBC
+	277 - Test Drive 6 [INT] - Eurasia.GBC
+	278 - Billy Bob's Huntin 'n Fishin [INT] - Menace.GBC
+	279 - Rampage 2 [INT] - Oldskool.GBC
+	280 - Rampart [INT] - Oldskool.GBC
+	281 - Grand Theft Auto [ENG] - KEL.GBC
+	282 - Supreme Snowboarding [INT] - Capital.GBC
+	283 - Mission Impossible [INT] - Menace.GBC
+	284 - Pokemon Gold [JAP] - Eurasia.GBC
+	285 - Pokemon Silver [JAP] - Menace.GBC
+	286 - Medarot 2 - Parts Collection [JAP] - Menace.GBC
+	287 - Tonka Raceway [INT] - Eurasia.GBC
+	288 - Mickey's Racing Adventure [INT] - Menace.GBC
+	289 - Bomberman Quest [INT] - Menace.GBC
+	290 - Turok Rage Wars [INT] - Menace.GBC
+	291 - Survival Kids [INT] - KEL.GBC
+	292 - Hamster Club [JAP] - Oldskool.GBC
+	293 - MsPacMan SCE [INT] - GBL.GBC
+	294 - Beat Mania 2 [JAP] - Oldskool.GBC
+	295 - Pumuckl's Abenteur bei den Piraten [GER] - Menace.GBC
+	296 - Babe And Friends [INT] - Menace.GBC
+	297 - Marble Madness [INT] - Menace.GBC
+	298 - Puzzle Master [INT] - Menace.GBC
+	299 - Muscle Ranking [JAP] - Oldskool.GBC
+	300 - Godzilla The Series - [INT] - Menace.GBC
+	301 - Golf Daisuki - [JAP] - Oldskool.GBC
+	302 - Barbies Meeres Abenteuer [GER] - HS.GBC
+	303 - Barbie Chasse Au Tresor Sous-Marine [FRE] - HS.GBC
+	304 - Pacman SCE [INT] - HS.GBC
+	305 - Stranded Kids [EUR] - NightFall.GBC
+	306 - Star Wars Episode I Racer - [INT] - Menace.GBC
+	307 - NBA 3 on 3 featuring Kobe Bryant [INT] - Menace.GBC
+	308 - Game & Watch Gallery 3 [ENG] - Menace.GBC
+	309 - Unpanma [JAP] - Oldskool.GBC
+	310 - NFL 2000 Blitz - [INT] - Menace.GBC
+	311 - Deja Vu 1+2 [GER FRA] - Menace.GBC
+	312 - Ready 2 Rumble Boxing  [USA] - Menace.GBC
+	313 - Gex 3 Deep Pocket Gecko [INT] - Menace.GBC
+	314 - Catwoman [INT] - Capital.GBC
+	315 - Konami GB Collection Vol1 [INT] - Capital.GBC
+	316 - FIFA 2000 [INT] - Capital.GBC
+	317 - Roadster Trophy [EUR] - HS.GBC
+	318 - Deja Vu 1&2 [ENG FRA] - NFL.GBC
+	319 - Grand Duel [JAP] - GBL.GBC
+	320 - Bistro Recipe - Food Battle [JAP] - GBL.GBC
+	321 - Bistro Recipe - Best Recipe [JAP] - GBL.GBC
+	322 - Halloween Racers [INT] - Oldskool.GBC
+	323 - The Mask Of Zorro [INT] - Menace.GBC
+	324 - Vigilante 8 [INT] - Menace.GBC
+	325 - Tazmanian Devil Munching Madness [INT] - HTS.GBC
+	326 - Hello Kitty's Cube Frenzy [INT] - Menace.GBC
+	327 - Le Visiteurs [FRE] - HS.GBC
+	328 - Armorines - Project S.W.A.R.M [INT] - Menace.GBC
+	329 - Go Go Goemon [JAP] - GBL.GBC
+	330 - Sweet Ange [JAP] - Oldskool.GBC
+	331 - Knock Out Kings [INT] - Menace.GBC
+	332 - The New Adventures of Kate & Ashley [INT] - Menace.GBC
+	333 - Pocket Monsters Gold V1.1 [JAP] - Oldskool.GBC
+	334 - Pocket Monsters Silver V1.1 [JAP] - Oldskool.GBC
+	335 - NHL 2000 [INT] - Eurasia.GBC
+	336 - Bomberman Max - Shadow of Darkness [JAP] - Oldskool.GBC
+	337 - Bomberman Max - Hero of Light [JAP] - Oldskool.GBC
+	338 - Nascar Challenge [INT] - Menace.GBC
+	339 - Test Drive Off Road 3 [INT] - Menace.GBC
+	340 - Aqualife [JAP] - Oldskool.GBC
+	341 - Boarder Zone [INT] - TC.GBC
+	342 - Deer Hunter [INT] - TC.GBC
+	343 - Daffy Duck Fowl Play [INT] - Menace.GBC
+	344 - Monster Farm Battle Card [JAP] - Oldskool.GBC
+	345 - Street Fighter Alpha [INT] - Menace.GBC
+	346 - Yoda's Stories [INT] - Quasar.GBC
+	347 - Little Magic [JAP] - Oldskool.GBC
+	348 - Bakuhashi Senki Metal Walker - Kkoute No Yuujyou [JAP] - IND.GBC
+	349 - Kidou Senkan Nadesco Ruri Ruri Mahjong [JAP] - IND.GBC
+	350 - Robot Ponkottsu Moon Version [JAP] - IND.GBC
+	351 - The Great Battle Pocket [JAP] - Oldskool.GBC
+	352 - Yakochu [JAP] - Oldskool.GBC
+	353 - Mickey's Tetris Adventure [JAP] - Oldskool.GBC
+	354 - MicroMachines 1&2 Twin Turbo [INT] - Eurasia.GBC
+	355 - Caterpillar Construction Zone [INT] - Menace.GBC
+	356 - Wings of Fury [INT] - Menace.GBC
+	357 - Deja Vu I & II [JAP] - Oldskool.GBC
+	358 - Deja Vu Eng [INT] - Menace.GBC
+	359 - Dogz [INT] - Menace.GBC
+	360 - Catz [INT] - Menace.GBC
+	361 - Speedy Gonzales Aztec Adventure [INT] - Menace.GBC
+	362 - Densha de Go! [JAP] - Oldskool.GBC
+	363 - Pocket Billiard [INT] - Oldskool.GBC
+	364 - Hot Wheels Stunt Track Driver [INT] - Menace.GBC
+	365 - Minna No Shogi [JAP] - Oldskool.GBC
+	366 - Uno [INT] - Oldskool.GBC
+	367 - Atelier Marie [JAP] - OS.GBC
+	368 - Atelier Elie [JAP] - OS.GBC
+	369 - Legend of Soukoban [JAP] - Oldskool.GBC
+	370 - Columns [JAP] - IND.GBC
+	371 - V-Rally Championship Edition [JAP] - Independent.GBC
+	372 - Pocket Color Mahjong [JAP] - MNC.GBC
+	373 - Super Bombliss DX [JAP] - Menace.GBC
+	374 - R-Type DX [JAP] - Menace.GBC
+	375 - Tiger Woods PGA Tour 2000 (ENG) -Menace.GBC
+	376 - Bubble Bobble [ENG] - CPI.GBC
+	377 - Beauty And The Beast [MUL5] - Eurasia.GBC
+	378 - Total Soccer 2000 [MUL6] - HS.GBC
+	379 - Odd World 2 [MUL5] - Menace.GBC
+	380 - Quest RPG [ENG] - IND.GB
+	381 - Ghosts 'N Goblins [ENG] - Menace.GBC
+	382 - Pong [ENG] - Menace.GBC
+	383 - Dragon Warrior Monsters [ENG] - Menace.GBC
+	384 - Bionic Commando [INT] - Menace.GBC
+	385 - NBA Showtime NBA on NBC [ENG] - Menace.GBC
+	386 - Joryu Janshi Ni Chousen [JAP] - Oldskool.GBC
+	387 - Top Gear Pocket 2 [JAP] - Eurasia.GBC
+	388 - International Track and Field [ENG] - Menace.GBC
+	389 - Gran Duel - Trial Version [JAP] - Oldskool.GBC
+	390 - Donkey Kong - Diddy Long and Dixie Kong [JAP] - Oldskool.GBC
+	391 - Super Black Bass - Real Fight [JAP] - Oldskool.GBC
+	392 - Gameboy Backup Station BIOS [ENG] - LFC.GBC
+	393 - Tarzan [GER] - LFC.GBC
+	394 - B-Daman Gaiden Final Mega Tune [JAP] - Oldskool.GBC
+	395 - Super Chinese Fighter EX [JAP] - Oldskool.GBC
+	396 - Vegas Games [ENG] - Menace.GBC
+	397 - Konami Winter Games [ENG] - Eurasia.GBC
+	398 - TopGear Pocket 2 [ENG] - Menace.GBC
+	399 - Azure Dreams [ENG] - LFC.GBC
+	400 - Pro Darts [ENG] - Menace.GBC
+	401 - Pachinko Hissho Guide - The King of Data [JAP] -  Oldskool.GBC
+	402 - Owari Yoiko N.G Dou - Oyaji Sagashite 3 Choume [JAP] - Oldskool.GBC
+	403 - Polaris Snowcross [ENG] - TC.GBC
+	404 - Card Hero [JAP] - Oldskool.GBC
+	405 - Touchboy System Rom [JAP] - Eurasia.GBC
+	406 - Rayman [MUL6] - Menace.GBC
+	407 - Army Men [MUL3] - Menace.GBC
+	408 - Meta Mode [JAP] - Oldskool.GBC
+	409 - Hyper Winter Olympics 2000 [JAP] - Oldskool.GBC
+	410 - Magical Tetris Challenge [ENG] - Menace.GBC
+	411 - ECW Hardcore Revolution [ENG] - Capital.GBC
+	412 - F1 Racing Championship [MUL5] - RPF.GBC
+	413 - Janosch - Das groáe Panama Spiel [GER] - LFC.GBC
+	414 - Jack's Journey - Elemental Tale [JAP] - Oldskool.GBC
+	415 - Missile Command [ENG] - Oldskool.GBC
+	416 - International Track and Field [MUL4] - LFC.GBC
+	417 - Shamus [USA] - Menace.GBC
+	418 - Dragon Quest Monsters [GER] - LFC.GB
+	419 - Super Mario DX [ENG] - Oldskool.GBC
+	420 - Konami Gameboy Collection Volume 2 [INT] - CPL.GBC
+	421 - Totsugeki Papparatai [JAP] - Oldskool.GBC
+	422 - Power Provaku Kun Baseball [JAP] - Oldskool.GBC
+	423 - Bomberman Quest [MULTI] - LFC.GBC
+	424 - Maderot Cardrobottle - Kabuto Version [JAP] - Oldskool.GBC
+	425 - Maderot Cardrobottle - Kuwagata Version [JAP] - OS.GBC
+	426 - Tonic Trouble [MUL6] - LightForce.GBC
+	427 - Detective Conan [JAP] - OS.GBC
+	428 - Sirubaniamorinonakama [JAP] - OS.GBC
+	429 - Puzz Loop [JAP] - OS.GBC
+	430 - Hamu Suta Para 2 [JAP] - OS.GBC
+	431 - RPG Maker [JAP] - OS.GBC
+	432 - Wario Land 3 [JAP] - OS.GBC
+	433 - Macross 7 [JAP] - OS.GBC
+	434 - Doraemon Memories [JAP] - OS.GBC
+	435 - Dancin Furby [JAP] - OS.GBC
+	436 - Tony Hawks Pro Skater [USA] - MNC.GBC
+	437 - Noddy And The  Birthday Party [MUL4] - CPL.GBC
+	438 - Street Fighter Alpha [USA] - TUXMSK.GBC
+	439 - Dinosaur [USA] - KEL.GBC
+	440 - Winnie the Pooh Adventures in the 100 Acre Wood [USA] - MN.GBC
+	441 - Battle Tanx [ENG] - TC.GBC
+	442 - Rayman [ENG] - TC.GBC
+	443 - F1 World Grand Prix 2 [MUL4] - CPL.GBC
+	444 - The Muppets [MUL7] - CPL.GBC
+	445 - Wings of Fury [MUL3] - PDX.GBC
+	446 - Jeremy McGrath Supercross 2000 [ENG] - TC.GBC
+	447 - Magical Tetris Challenge [MUL7] - OS.GBC
+	448 - Catz [INT] - LFC.GBC
+	449 - Dogz [INT] - LFC.GBC
+	450 - Swing [GER] - PDX.GBC
+	451 - Meta Fight [JAP] - Oldskool.GBC
+	452 - Cross Country Racing [MUL3] - IND.GB
+	453 - Funk the 9 Ball [JAP] - Oldskool.GBC
+	454 - Jim Henson's Muppets [USA] - Corp.GBC
+	455 - Pop'N Music [USA] - IND.GBC
+	456 - Pok‚mon Trading Card Game [INT] - Menace.GBC
+	457 - Thunder Blast Man [JAP] - ACY.GBC
+	458 - Tom Clancy's Rainbow Six [INT] - Menace.GBC
+	459 - Bugs Bunny - Crazy Castles 4 [INT] - Paradox.GBC
+	460 - Power Prokun 2 [JAP] - Oldskool.GBC
+	461 - Allstar Tennis 2000 [INT] - Capital.GBC
+	462 - Detective Conan 2 [JAP] - Oldskool.GBC
+	463 - Disney's Tarzan [JAP] - Oldskool.GBC
+	464 - Daffy Duckïs Fowl Play [JAP] - Oldskool.GBC
+	465 - Jagainu Kun [JAP] - Oldskool.GBC
+	466 - Monkey Puncher [JAP] - Oldskool.GBC
+	467 - Kuro Chan [JAP] - Oldskool.GBC
+	468 - Yu Gi Oh Capsule [JAP] - Oldskool.GBC
+	469 - The Adventures of Arle [JAP] - Oldskool.GBC
+	470 - Monster Rancher Battle Card [JAP] - Menace.GBC
+	471 - Pocket Pro Wrestling Perfect Wrestler [JAP] - Oldskool.GBC
+	472 - NBA In the Zone 2000 [INT] - Menace.GBC
+	473 - NHL Blades of Steel 2000 [INT] - Menace.GBC
+	474 - Trick Boarder GP [JAP] - Oldskool.GBC
+	475 - Azure Dream [MUL3] - LFC.GBC
+	476 - 4x4 World Trophy [MUL5] - LFC.GBC
+	477 - Snowboard Champion [JAP] - Oldskool.GBC
+	478 - Mission Impossible [INT] - TC.GBC
+	479 - Friendly Pet Series 1 [JAP] - Oldskool.GBC
+	480 - Friendly Pet Series 2 [JAP] - Oldskool.GBC
+	481 - Tango! [JAP] - Oldskool.GBC
+	482 - Battle Fishers [JAP] - Oldskool.GBC
+	483 - Metal Gear - Ghost Babel [JAP] - Oldskool.GBC
+	484 - Pro Mahjong Tsuwamono 2 [JAP] - Oldskool.GBC
+	485 - Honkaku Taisen Shogi Ayumu [JAP] - Oldskool.GBC
+	486 - Vegas Games [MUL3] - Eurasia.GBC
+	487 - Tonka Raceway [INT] - LFC.GBC
+	488 - F1 World Grand Prix 2 [JAP] - Oldskool.GBC
+	489 - Honkaku Hanafuda [JAP] - Oldskool.GBC
+	490 - Hollywood Pinball [JAP] - Oldskool.GBC
+	491 - Super B-Daman [JAP] - Oldskool.GBC
+	492 - Pocket Color Trump [JAP] - Oldskool.GBC
+	493 - Konami GB Collection 3 [MUL] - Eurasia.GBC
+	494 - Metal Gear Solid [MUL5] - Eurasia.GBC
+	495 - Burger Paradise [JAP] - Oldskool.GBC
+	496 - Metal Gear Solid [ENG] - Menace.GBC
+	497 - Ultimate Paintball [INT] - Paradox.GBC
+	498 - F18 Thunder Strike [INT] - Capital.GBC
+	499 - Rugrats - Totally Angelica [INT] - Capital.GBC
+	500 - Jurassic Boy 2 [INT] - Acey.GBC
+	501 - WCW Mayhem [INT] - Eurasia.GBC
+	502 - Triple Play 2001 [INT] - Eurasia.GBC
+	503 - Top Gear Rally 2 [INT] - Eurasia.GBC
+	504 - Driver - You Are The Wheelman [INT] - Menace.GBC
+	505 - Looney Tunes Collector Martian Alert! [MUL6] - Oldskool.GBC
+	506 - Bomberman Max red Challenger [INT] - Menace.GBC
+	507 - Spirou [MUL] - HS.GBC
+	508 - Taxi 2 [FRA] - HS.GBC
+	509 - VS Lemmings [INT] - Oldskool.GBC
+	510 - DX Monopoly [JAP] - Oldskool.GBC
+	511 - Ferret Story Dear My Ferret [JAP] - Oldskool.GBC
+	512 - Hisshatsu Pachinko Boy [JAP] - Oldskool.GBC
+	513 - Puzzle Bobble 4 [JAP] - Oldskool.GBC
+	514 - Kanji de Puzzle [JAP] - Oldskool.GBC
+	515 - 1942 [INT] - Menace.GBC
+	516 - Casper [INT] - Menace.GBC
+	517 - Keiba Jou e Ikou Wide! [JAP] - Oldskool.GBC
+	518 - Le Mans 24 Hours [MUL5] - Eurasia.GBC
+	519 - Toobin [INT] - Menace.GBC
+	520 - Chase HQ Secret Police - [INT] - Oldskool.GBC
+	521 - Bomberman Max - Blue Champion - [INT] - Menace.GBC
+	522 - Game Conveni 21 - [JAP] - Oldskool.GBC
+	523 - Tomb Raider - [MUL5] - Eurasia.GBC
+	524 - Poyon's Dungeon Room 2 - [JAP] - DCS.GBC
+	525 - Mary-Kate & Ashley - Get a Clue! - [INT] - Capital.GBC
+	526 - Asterix - Search for Dogmatix - [MUL6] - Paradox.GBC
+	527 - All-Star Baseball 2001 - [INT] - Capital.GBC
+	528 - The Mask of Zorro - [INT] - Oldskool.GBC
+	529 -  Croc - [INT] - LFC.GBC
+	530 - Wacky Races - [MUL3] - Menace.GBC
+	531 - Bikkuriman 2000 Charging Card GB - [JAP] - DCS.GBC
+	532 - Rayman [JAP] - Oldskool.GBC
+	533 - Gute Zeiten Schlecht Zeiten Quiz  [GER] - Paradox.GBC
+	534 - Pokemon Yellow [GER] - Paradox.GBC
+	535 - Bugs Bunny Crazy Castle 4 - [JAP] - Oldskool.GBC
+	536 - Trick Boarder - [INT] - Menace.GBC
+	537 - Sei Hai [JAP] - Oldskool.GBC
+	538 - Dinosaur [INT] - TC.GBC
+	539 - Looney Tunes Collector Alert [INT] - Menace.GBC
+	540 - Gold and Glory The Road to El Dorado [INT] - Menace.GBC
+	541 - Toonsylvania [MUL6] - HS.GBC
+	542 - Pokemon Yellow [FRA] - HS.GBC
+	543 - Hunter X Hunter [JAP] - Oldskool.GBC
+	544 - Doraemon Quiz Boy [JAP] - Oldskool.GBC
+	545 - Pokemon Yellow [ESP] - STK.GBC
+	546 -  Gex 3 - Deep Cover Gecko [MUL5] - Menace.GBC
+	547 - Dino Breeder 4 [JAP] - Oldskool.GBC
+	548 - Heroes of Might & Magic [MUL3] - TC.GBC
+	549 - Rip Tide Racer [MUL5] - Menace.GBC
+	550 - Roland Garros French Open [MUL6] - Menace.GBC                                         |
+
+     |                                                                    |
+     |                                                                    |
+   __|____________________________________________________________________|__
+     |                                                                    |
+     |- Ripping Notes:                                                    |
+     |                                                                    |
+     |  nothing to rip                                                    |
+     |                                                                    |
+   __|____________________________________________________________________|__
+     |                                                                    |
+     |- Group News:                                                       |
+     |                                                                    |
+     |  DrastiC still need's a Release HQ or a WHQ. Can you help us ?     |
+     |  Contact any @ in #Drastic                                         |
+     |                                                                    |
+   __|____________________________________________________________________|__
+     |                                                                    |
+     |- Contact                                                           |
+     |                                                                    |         
+     |  Contact us in Efnet on our Public Channel #Drastic                |
+     |  Please do not bother ous with any Questions about Public FTP's !  |
+   __|____________________________________________________________________|__             
+     |                                                                    |
+     |- Release History of Drastic:                                       |
+     |                                                                    |
+     |                                                                    |
+     | Num  Game Title & Publisher                         Origin         |
+     | ---  ----------------------                         ------         |
+     | 001  Walt Disney World Magical Racing Tour          EURO/PAL       |
+     | 002  DreamSNes v0.9.3 Emulator + 180 Roms           USA/NTSC       |
+     | 003  Neo Geo Pocket Emulator + 87 Roms              USA/NTSC       |
+     | 004  DCMsx Emulator + All Roms                      USA/NTSC       |
+     | 005  Tokyo Higway Racer                             EURO/PAL       |
+     | 006  Tokyo Higway Racer Repack (C)                  EURO/PAL       |
+     | 007  Virtua Striker 2 (C) SEGA                      EURO/PAL       |
+     | 008  Drastic Game Collection                        MIXED          |
+     | 009  Drastic Game Collection 2                      MIXED          |
+     | 010  Power Stone                                    EURO/PAL       |
+     | 011  GameboyColor ROM Collection 1-550		   MIXED          |
+     | 012  GameboyColor ROM Collection 551-958		   MIXED	  |  
+   __|____________________________________________________________________|__
+     |                                                                    |
+     |- Greet's fly out to:                                               |
+     |                                                                    |  
+     |  MOD,ECHELON,KALISTO,PARADOX,TRSI & STATIC,UNDERCOVER-AGENTS       |
+     |  KREMA, PARADISO, BCHL, LIGHFORCE and to all who rock with ous !   |
+   __|____________________________________________________________________|__
+     |                                                                    |
+     | Last Update 03/04/2001 - Freak^ of DrastiC                         |
+   __|____________________________________________________________________|__
+     |                                                                    |
+ 	

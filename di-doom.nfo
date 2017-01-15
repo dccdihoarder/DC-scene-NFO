@@ -1,0 +1,122 @@
+July 31, 2001				DoomDC Public Pre-Release (Beta 1)
+
+Dear Enthusiast,
+
+  We are excited to announce and enclose our latest prerelease.  We highly
+value your feedback on this and future releases.  Through your reports and
+comments we hope to deliver a quality port.  We look forward to hearing
+back from you on any issues that may arise.
+
+  DoomDC represents a significant achievement for the Dreamcast community,
+and we hope to see many other projects like it.  Please, help us keep the
+Dreamcast alive.
+
+Before You Begin
+
+This is a beta pre-release of DoomDC.
+
+	*	DoomDC requires an IWAD from an official doom distribution
+		such as Registered Doom, Doom II: Hell On Earth, Final Doom
+		French Doom II: Hell On Earth, Ultimate Doom, or Shareware.
+
+	*	If you have your DoomII cd handy you may use the Doom II CD
+		option in the loader. (note: this looks for doom2cd\doom2.wad)
+
+	*	This pre-release is not reccommended for those short on
+		blank cdrs or those with little experience burning plain files
+		archives.
+
+	*	Due to the pre-release nature of this software, we reccommend
+		you remove all vmus from your system before starting it.
+		The vmufs is known to be quite broken.
+
+	*	Save games are only supported by the coder's cable version
+		included in this archive (doom.elf) the cd version does not
+		support save games in any way.
+
+	*	Use of this software with pirated wad files is strictly
+		prohibited by it's authors.  Do ID a favor, buy the game.
+
+	*	The loader in this release does not support PWADs.
+		A future version of the doom loader will support PWADs.
+
+
+Burning DoomDC & IWADs
+
+	*	If you are using a coders cable or broadband adapter you may
+		use the debug version of this software (doom.elf),  using
+		dc-tool you might be be able to get by without burning the
+		wad files to a cdr.  dc-tool 1.0 and above have support for
+		cdfs redirection, create an iso image containing the wad
+		files that you legally posess, and supply the iso to dc-tool
+		with the -i command line option.
+
+	*	To burn this in windows, it is suggested to use burner0's
+		self boot buddy.  For those of you with experience burning
+		by hand, you may wish to use mkisofs/cdrecord directly.
+
+	*	If you do not have any Doom IWADS, you may download the
+		shareware episode version 1.8 IWAD from
+		ftp://ftp.idsoftware.com/idstuff/doom/doom-1.8.wad.gz
+
+	*	The IWADs are expected to be in the root of the cd except
+		when using the official DoomII cd which is noted above.
+
+
+How to Obtain Support
+
+Join us for support of this beta pre-release in our forums.
+You can access the DoomDC forum with the following url:
+
+* http://www.dcemulation.com/cgi/UltimateBB/ultimatebb.cgi?ubb=forum&f=5
+
+
+Visit us at http://doomdev.dcemulation.com and http://dcgrendal.dcemulation.com
+
+
+Thank you for your participation.  We look forward to working with you.
+
+Sincerely,
+
+
+DoomDC Team
+
+
+
+
+Credits:
+
+ crt0:		figuring out where everything was, quite quickly, getting
+		doom to compile.
+
+ dcgrendel:	porting doom to KOS & JAMDu,  Converting the doom font to
+		the format used by JAMDu.  Writing the JAMDu front end for
+		doom.  Working 20 hour days staring at the doom code till
+		his brain stoped working.
+
+ sayten:	Note: thats Say 10, not satan.  Helping us with the sh4
+		and its peculiaritys.  ( this man is the SH4 asm GOD )
+
+ turrican2k:	beta tester, offered many suggestions, made video.
+
+ ss_teven:	beta tester & play tester, helped some with the sound.
+
+ dan potter:	writing the Kallisti Operating System and the original JAM
+		sources which JAMDu are based upon.
+
+ marcus c.:	finding all the nifty stuff we can do without those nasty
+		offical devkits.
+
+ andrewk:	makeing the best serial slave for the dreamcast.
+
+ SubWoofer &
+ ThinWhiteDuke:	The front cover (used in the loader)
+
+ Sega:		Giving birth to, and killing the dreamcast.
+
+ 007Cheater:	Making people believe.
+
+
+			This document (c) 2001 DCGrendel.
+
+

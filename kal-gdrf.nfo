@@ -1,0 +1,109 @@
+ ._______ /\______        _______.     ________/_________________________/\
+ |      |/      /______/\ |      | eNf  \___  /  ______/\____   ____/      \
+ |      /      //        \|      |__________\/_______      |     |/         \
+ |           _//          \      |     /     \ .    |      |.   _//    |     \_
+ |:           \            \     |    /       \     |      |:   \      |      /
+:|:     \      \    /\     \\    |   //        \           ||    \           /
+:::_____|\______\  /_________\______/___________\__________|_____|\  _______/
+ <::-------------\/----------------/-------------------------------\/-------->
+   :.  Proudly Presents :                                                   |
+   |                                                                        |
+   |      Game : Yamaha 400/GD-R firmware     checksum : A252B838           |
+   |    Origin : katana devkit r9             Filename : KAL-GDRF.zip       |
+   |  Released : August 6, 2000                    zip : 1                  |
+   |  Platform : Sega Dreamcast (DC)            Format : BIN/firmware       |
+   |                                                                        |
+   +--|- -                                                            - -|--+
+      | Release Notes -------------------------------------------------  |
+   +--|- -                                                            - -|--+
+   |                                                                        |
+   |  Information seems to be leaking out about this one so we decided to   |
+   |  make a public release to avoid "fixed" firmware that may not be so    |
+   |  friendly to the precious yamaha 400.                                  |
+   |                                                                        |
+   |  Well, the rumors are true. This does work, we now have 8 of these     |
+   |  units, and all of them can now read GD's                              |
+   |                                                                        |
+   |  This is not the original way that we began ripping GD's. we have an   |
+   |  actual serial link setup that our hardware engineers figured out.     |
+   |  This method of ripping is much more efficient as you may imagine      |
+   |  we have known about this method for 3 weeks now but have chosen to    |
+   |  keep it secret to protect Sega and the various developers that        |
+   |  are licsenced by sega.                                                |
+   |                                                                        |
+   |  To date, Dreamcast Iso's are only available mostly to those with      |
+   |  high speed internet access, or other connections.                     |
+   |                                                                        |
+   |  This will soon all change and only patches will need to be released   |
+   |  to make self ripped games playable.                                   |
+   |                                                                        |
+   |  We hope that Sega and it's developers are up the the challenge that   |
+   |  sony has been facing with the PSX. Sony has realized that the scene   |
+   |  could help them and they used it to their advantage                   |
+   |                                                                        |
+   |                 "Adversity Brings Greatness"                           |
+   |                                                                        |
+   |   Directions                                                           |
+   |  --------------                                                        |
+   |                                                                        |
+   |      The utility's filename is dld_dos.exe.  The utility               |
+   |      takes four command-line parameters:                               |
+   |                                                                        |
+   |                                                                        |
+   |   1) The flash file.  For this parameter, use                          |
+   |      the scsicom.bin file path.                                        |
+   |   2) The SCSI ID of the GD Writer to be reflashed.                     |
+   |   3) The ASPI ID of the SCSI card on which the GD                      |
+   |      Writer resides.  This is a zero-based index                       |
+   |      to the card.                                                      |
+   |   4) The value 11000.					            |
+   |      For example:						            |
+   |      dld_dos.exe scsicom.bin 5 0 11000                                 |
+   |      will reflash the GD Writer on ASPI ID #0, on		            |
+   |      SCSI ID #5.                                                      |
+   |                                                                        |
+   +--|- -                                                            - -|--+
+      | Contact Information & Recruitment -----------------------------  |
+   +--|- -                                                            - -|--+
+   |                                                                        |
+   |  Ever wanted to be a part of KALISTO? Well, now is your chance. We are |
+   |  currently on the lookout for new members who can help the current #1  |
+   |  team on the Playstation.                                              |
+   |                                                                        |
+   |  If you are able to:                                                   |
+   |                                                                        |
+   |  1) Supply Brand New & Un-released USA/PAL/JAP Playstation games.      |
+   |  2) Crack/Code on the Playstation and are interested in having several |
+   |     opportunities to display your work.                                |
+   |  3) Supply PC hardware on a regular basis.                             |
+   |  4) Run a T3+ Unix Shell Box in America or Europe with at least 3 gigs |
+   |     of free space.                                                     |
+   |                                                                        |
+   |  NOTE: We do not need any more sites or couriers at this time, do not  |
+   |        bother asking, thank you.                                       |
+   |                                                                        |
+   |  Then, contact us as soon as possible at kalisto@paki.com. We are      |
+   |  interested to hear what you may have to offer our group and will      |
+   |  be willing to negotiate details with you.                             |
+   |                                                                        |
+   |  If you need to reach us for any other reason, we can be reached via   |
+   |  the following ways:                                                   |
+   |                                                                        |
+   |  E-Mail: kalisto@paki.com                                              |
+   |     IRC: #kalisto on EFNet                                             |
+   |                                                                        |
+   +--|- -                                                            - -|--+
+      | Greets --------------------------------------------------------  |
+   +--|- -                                                            - -|--+
+   |                                                                        |
+   |  Class  -  Fairlight  -  Aggression  -  Menace  -  Cife  -  Paradox    |
+   |  Static  -  Accession  -  Eurasia  -  Capital  -  Lightforce  -  Nil   |
+   |  Trsi  -  Mups  -  Wackyiso  -  Myth  -  Deviance  -  Risciso  -  Rns  |
+   |                                                                        |
+   | .____ /\__________: ____________________/\                             |
+   | |   |/   /    \   | |   \_  ___/__ ___/   \  kalisto psx 1998-2000+    |
+   | |   /   /      \  |_/\  |____   |  /   |   \                           |
+   | ||  \   \  /\  \\ |   \ |.  |   |  \\  |   /   we set the standards    |
+   | |___|\  _\/______\____/_|_______|___\ ____/    we are the benchmark    |
+   |       \/                             \/- eNf                          .:
+  <------------------------------------------------------------------------::>

@@ -1,0 +1,53 @@
+          Title....: Pizzicato Polka   
+
+          Supplier.: Hykan         -  Date.....: 30/5/2006
+          Selfboot.: Hykan         -  Genre....: AVG
+          Platform.: SEGA DC       -  Files....: 31x20MB
+          Origin...: JAP/NTSC      -  Filename.: hyk-pizz.partxx.rar
+          Type.....: .nrg 99min    -  Ripped...: See rip note
+                                                                        
+________________________________________________________________________________
+
+  Release Notes                                             
+- ----------------------------- -
+The game has been ripped and tested to be 100% working personally by myself
+(according to the walkthrough I have - 87% CG collection). Only the bad ending
+movie will pause a little bit occasionaly probably because its closest to the
+center of the CDR and my DC's laser head is not in optimal condition. 
+
+The test CD was burnt with Nero 6.6.0.13 DAO at 4X speed, overburnt to 99
+minutes.
+              
+  Rip notes (technical)                                            
+- ----------------------------- -
+*The following notes are a bit technical and is useless to 99% of the users.
+*The info is intended for technical users who know what they are doing and if
+*they found anything wrong with my procedures, they can correct me or perhaps
+*release a ppf.
+
+The Game is big : 906M of data, something has to downsampled
+	OPEN.SFD  video downsampled from 2667kbs to 1000kbs (46M to 21M)
+	END02.SFD video downsampled from 1406kbs to 800kbs  (41M to 28M)
+	END03.SFD video downsampled from 1953kbs to 800kbs  (54M to 28M)
+	END04.SFD video downsampled from 1627kbs to 1000kbs (34M to 24M) 
+
+	END01.SFD video 917kbs not downsampled (9M, bad ending)
+
+After these downsampling, the image will fit on a 99min CDR
+
+To fit the game on 80min CDR will require severe downsampling as the total size
+of SFD and AFS(SE00.AFS & SE01.AFS-22KHz) is only 208M and you need to cut 
+away at least 180M. I will leave this dirty work to others as I myself prefer 
+quality.
+     
+Like all of my previous releases, the images were created with a variation of
+Echelon's method and hex edited directly into Nero format without burning to CDR
+first.
+
+- ----------------------------- -
+         
+Greets
+Gosseyn , Rayearth , blibbero , NU-NRG & all contributing members of Sega Palace
+
+
+

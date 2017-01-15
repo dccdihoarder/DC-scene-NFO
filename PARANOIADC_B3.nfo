@@ -1,0 +1,71 @@
+=================================================================
+======  Dreamcast Paranoia - ParanoiaDC - Public Beta 3.0  ======
+=================================================================
+Release Info:
+
+    Released : 4/13/10
+ CD's / Size : 1 cd / 700mb
+   File Name : PARANOIADC_B3.cdi
+ Compression : RAR [20mb][9 RAR's]
+    Platform : Sega Dreamcast
+      Format : CDi ( Disc Juggler )              
+
+=================================================================
+Game Info:
+
+ "Paranoia" - our singleplayer total conversion for Half-Life.
+
+You will play the role of a russian officer of the secret
+service. There will be many missions, each with specific
+objectives for the players to accomplish, such as defending a 
+restricted military area, eliminating a terrorist threat and
+protecting innocent workers. Your first impressions are that
+this mission will be just like any other, but you really have
+no idea what nightmares future events have in store for you...
+
+=================================================================
+Other Info:
+
+ After years in development, we are proud to present the latest
+release of Dreamcast Paranoia. The first two campaigns, Training
+Base Alpha and Udarnik Industrial Complex, are final. The last
+campaign, Deep Into the Bunker, is not final, this is why this is
+still a "beta" release.
+
+ A save system is implemented on the first two campaigns.
+Only when you reach a checkpoint, you will recieve a message
+"Checkpoint reached. Save your game now!" 
+  
+ This game, no dobt, pushes the Dreamcast to its max, and I
+beleive incredible things have been achieved. I hope you all
+enjoy the results. 
+
+=================================================================
+Dreamcast Paranoia Credits:
+
+Dreammatrix - 
+ - Initial concept
+ - Preliminary port of raw game data
+ - Porting of Bunker maps
+ - Ideas and support throughout development process
+
+OVERRiDE -
+ - Converting game data to Dreamcast-specific formats
+   - Sound / Music
+   - Textures
+   - Models
+ - Weapons models conversion
+ - Porting of Army and Industrial maps
+ - Beta and Final Menu GFX
+ - Reasearch and development of Dreamcast Half-Life specifics
+ - Modifications to HALFLIFE_DC.EXE
+ - Various data optimizations
+
+Paranoia Dev Team - 
+ - Development of the original files used for the port
+
+=================================================================
+    Respect to Mikhail "BuzZer" Kadikov and Paranoia Dev Team          
+
+ 4/13/10         Enjoy This Rare Piece of Art           OVERRiDE
+=================================================================

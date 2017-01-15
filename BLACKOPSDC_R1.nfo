@@ -1,0 +1,54 @@
+============================================
+Black OPS: Black Operations - Dreamcast R1
+============================================
+
+--------------
+Release Info:
+--------------
+
+Format: CDi ( Disc Juggler | Alcohol 120 )
+Compression: RAR / 175mb
+CD Size: 700mb / 80-min CD
+
+----------------
+Black OPS Info: 
+----------------
+
+Half-Life mod | Released Sep 15, 2007
+
+"Black Operations looks and feels different to many Half-Life mods, and has some rather
+obvious nods towards Max Payne. When you receive the briefing from your commander the
+game turns into a graphic novel or comic, complete with speech bubbles. This comic book
+technique is reused at a number of points to further the plotline, and it works very well."
+
+http://planethalflife.gamespy.com/View.php?view=Reviews.Detail&id=19
+
+-------------
+Build Info:
+-------------
+
+I have reached a very stable port of Black OPS to Sega Dreamcast
+GoldSource Engine, running on average ~40fps.
+
+This mod uses great mapping techniques without relying on custom code,
+therefore the maps needed little to no modification. 
+
+It is also recomended to try the Training Course first!
+
+After 3 internal beta builds, this current build is now Release 1 ( R1 ).
+
+What has been changed / optimized for Dreamcast:
+-Converted textures to PVR (VQ) textures
+-Converted most audio to ADPCM
+-Edited to launch from DC menu
+-Changed MENU GFX to Black OPS GFX
+-Added some models that were not present in DCHL
+-Fixed a few lines in titles.txt that prevented seqeunces from working
+-Fixed a few other minor bugs throught internal beta builds
+
+Because saves dont work, the menu is set up so you can also pickup halfway through.
+Also, you can try this code: "Otis Loves Dreamcast" to enter god mode.
+
+===============
+-OVERRiDE 2009
+===============

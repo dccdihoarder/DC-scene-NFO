@@ -1,0 +1,107 @@
+  Program: Self-Boot GypPlay v2.0 Lik Sang Edition.
+
+                                      
+   Re-Released: April 29, 2001       Filename: DCVCDLikSangEdition+Self-Boot.rar = 1 rar file
+      Platform: Sega Dreamcast (DC)     Format: ISO + folder/files
+
+------- News ------------------------------------------------------------------------------
+ This was not meant to disrespect Gypsy, this is just a complement to his great program!
+ Now you can watch your movies without having to use Utopias Boot CD.
+ I have also added a zip of the Original GypPlay_LikSangEdition.zip just in case you have trouble burning
+ the Self-Boot one.
+ I did not make this program, 'The Gypsy' did. I only Self-Booted it, & arranged this easy
+ walkthrough.
+ His E-mail: contact_thegypsy@hotmail.com 
+
+------- Bonus -----------------------------------------------------------------------------
+ 1. Original GypPlay_LikSangEdition.zip! Use with Utopias Boot-CD.
+ 2. CDR-Win v3.8. Pre-Hacked Non-Install Version. No serials Needed, no Software Conflicts!
+ 3. VCD Gear. Converts: Nero, Adaptec, and of course CDR-Win images into .mpeg or .dat.
+    It can also turn .mpeg/mpg, .dat, & .raw format into .mpeg or .dat. Best for turning your 
+    true VCD's (.dat) into mpeg clips that can then be viewed on the DreamCast.
+
+------- Changed ---------------------------------------------------------------------------
+ 1ST_READ.bin & IP.bin have been hacked into Self-Boot Mode (XA-Compatible).
+ WinCE Flag has been disabled.   
+
+------- Quick Q&A -------------------------------------------------------------------------
+ 1. I was told that you must burn it Mode-1 not Mode-2 : XA, will burning it as Mode-2 
+    somehow affect the video quality? or playback?
+
+ @ No. The video will play on your T.V. the same as it would before. No quality loss or
+   playback errors.
+
+ 2. Seeing that it is Data Mode-2 : XA, does that mean I cannot watch them in my computer
+    if I want to later?
+
+ @ No, you will still be able to watch them on your computer as usual. Also if you have a 
+   true VCD, you can drag the files/folders from the disc, add the GypPlay Self-Boot files,
+   and burn it appropriately. That way it will boot-up in your DC, Computer, & your console
+   VCD/DVD Player (if it accepts CDR). I recommend clicking the "Write Postgap" Box though.
+   This works because unlike other Self-Boot DC Back-ups that have the .raw audio track 1st 
+   then the Data, you will add the .raw Audio Track last. So the first thing your VCD/DVD
+   Console Reads is the Data. The Post-Gap along with closing the session will make it think 
+   the disc ends after the 1st Data Track. Make sure you convert the files to 'Archive' after
+   your pull them from the CD.
+
+------- How to Use ------------------------------------------------------------------------         
+ Open the 'DCVCDLikSangEdition+Self-Boot.rar' file.
+ You should see a folder named 'Movies'. Extract that folder.
+ Put any Movies you might have into the 'movies' folder.
+ Keep in mind that this program reads in alphabetical order, so put 000-001-002 etc in front 
+ of your movies to control the order they are played in. 
+ Example; If I want a movie called 'Video.mpeg' to play 1st, I would name it; 000Video.mpeg.
+
+ The movie(s) should also be 20-29.97 fps or better.
+ If you are unsure about a certain movie, put 'zzz' in front of it, so it will be the
+ last movie played. When GypPlay encounters a bad movie, it can lock-up the whole disc.
+
+ Fire-up CDR-Win.
+ Select: 'File Backup and Tools', from the menu.
+___________ ___ __ _  _ 
+
+ Settings: 
+ Backup/Tool Operation: Record Directories/Files directly to an IS09660 Disc (on the fly)
+
+__ File Backup List _____________________________________________________________________
+ Directory or Filename: Select the folder called 'Movies' & add it.
+ [ ] Preserve Full Pathnames   [x] Long Filenames (Joliet)   [x] Recurse Subdirectories
+ [x] Include Hidden Files      [ ] Include System Files      [ ] Include Archive Files Only
+
+ __Recording Options_____________________________________________________________________
+ CDROM Recorder: (Choose the Recorder with the Blank CDR)
+ Disc Type: CDROM-XA   Track Mode: MODE2   SPEED: (Choose whatever speed you like)
+ [x] Finalize/Close Session    [x] Open New Session          [ ] Test Mode Only
+ [ ] Write Postgap (you can check this box if you want, it will not cause a problem if you do.
+ keep in mind that if you do check this it will eat-up a few MB's making a Post-Gap).
+_________________________________________________________________________________________
+
+ Burn to CD & Close the CDR-Win Program.
+ Extract the 'Audio.iso' from DCVCDLikSangEdition+Self-Boot.rar.
+ Then re-open CDR-win & Burn the 'Audio.ISO' on the same disc.
+ Keep all the Settings the same but, Un-Check the 'Open New Session' Box this time.
+ Yes I know most Self-Boot games have the Raw Audio Session 1st, then the Data, but this is 
+ different. It works this way, Trust me :o)
+
+ Now pop it in your DreamCast and enjoy the Movies!
+
+ BTW: you can also use other programs to burn this CD, but I recommend CDR-Win.
+__________________________________________________________________________________________
+ Recopying this Disc:
+ Use Disc Juggler v2x-v3x or Nero 5x for straight-up CD-Copying.
+__________________________________________________________________________________________
+
+  
+
+------------------------------------------------------------------------------------------
+
+
+                                    -=Nikone=-
+
+ nikone@crackdealer.com
+
+ http://nikone.stormloader.com
+ http://nikone.cjb.net
+ http://nik1.cjb.net
+
+

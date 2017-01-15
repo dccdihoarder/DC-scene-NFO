@@ -1,0 +1,49 @@
+     
+                  ___.   _______             _______                 
+              __ _\_ |__ \   _  \       ____ \   _  \   ______ ______
+             |  |  \ __ \/  /_\  \     / ___\/  /_\  \ /  ___//  ___/
+             |  |  / \_\ \  \_/   \   / /_/  >  \_/   \\___ \ \___ \ 
+             |____/|___  /\_____  / /\\___  / \_____  /____  >____  >
+                       \/       \/  \/_____/        \/     \/     \/ 
+
+
+ 
+  Presents :
+
+	Hydro Thunder US Kalisto selfboot release PAL FIX
+	
+
+
+  Release Note :
+
+	Here's a PPF to fix the Kalisto release of Hydro Thunder. This game sucks at  
+	50 Hz, so with that patch you can play at 60 Hz.
+
+ 	
+
+  Patch Info :                                                          
+
+	You need to apply this patch on the Original Powerstone2 CDI file.
+	Use ppfOmatic or applyppf.exe :
+
+	applyppf.exe KAL-HYDT.cdi ub0_hydr.ppf
+
+ 
+	
+  Personal note :
+
+	I am not a new group or something similar in the dc scene, I just want to
+	make a ppf for those who don't know how to use a hexa-editor. This is my                    second and maybe my last contribution here.
+
+
+
+  Greets:                                                
+
+	Sorry no greetz!!!!!
+
+
+
+Bye
+  
+
+ub0.g0ss

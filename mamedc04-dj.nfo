@@ -1,0 +1,87 @@
+Mame for Dreamcast
+
+1) Introduction
+---------------
+
+MAMEDC is an attempt to port MAME to the (wonderful) Dreamcast console.
+
+2) License
+----------
+
+Copyright (C) 2001 Christophe Thibault.
+
+This software is provided 'as-is', without any express or implied
+warranty.  In no event will the authors be held liable for any damages
+arising from the use of this software.
+
+Permission is granted to anyone to use this software for any purpose,
+except commercial applications, and to alter it and redistribute it
+freely, subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not
+   claim that you wrote the original software. If you use this software
+   in a product, an acknowledgment in the product documentation would be
+   appreciated but is not required.
+2. Altered source versions must be plainly marked as such, and must not be
+   misrepresented as being the original software.
+3. It is ILLEGAL to distribute MAMEDC along with copyrighted ROMs.
+4. This notice may not be removed or altered from any source or binary 
+   distribution.
+
+3) Features
+-----------
+
+- Some games work at 100% framerate, others are slower. 
+- Supports the following drivers: PacMan, Arkanoid, Super Qix (bootleg), Psychic5, Pang and Super Pang. 
+- More drivers work but they are untested for now. 
+- Basic (and buggy) sound support! 
+- VERY unoptimized for now 
+
+4) Credits
+----------
+
+MAME - The MAME Team (Do NOT bother them about MAMEDC) 
+MAMEDC port - Christophe Thibault 
+Kallistios - Dan Potter 
+Some source code from Multipac - James Surine 
+
+5) Burning instructions
+-----------------------
+
+Burn the DiscJuggler 2+ image with discjuggler. You can download it from http://www.padus.com/
+Then, you have to make the ROM images cd. You need to burn a Mode1 cd with the following directory
+structure:
+
+/
+|
+|-roms
+  |    
+  |-arkanoid
+  |-pacman
+  |-pang
+  |-psychic5
+  |-spang
+  |-sqixbl
+
+In the root folder of that cd, you need to have the "stream.drv" file found on the MAMEDC cd.
+In the roms games folder, you need to put the UNZIPPED rom files.
+
+Otherwise, you can make another selfbootable cd with MAMEDC along with the roms on the same cd.
+You can get some instructions about that on the dcemulation.com site.
+http://www.dcemulation.com/help/selfboottutorial.htm
+(note: IP.BIN and 1ST_READ.BIN are already patched and scrambled)
+
+6) Usage
+--------
+
+Put the MAMEDC cd in your dreamcast and boot it up!
+If you have the rom files on an external CD, you need to wait for MAMEDC to show its game
+launch screen. Then, you need to put the ROM cd in your dreamcast and -WAIT FOR IT
+TO GET ACKNOWLEDGED- (the cd swapping code is somewhat buggy)
+
+If you don't have a DC keyboard, you can do press the "OK" keys at the MAME screens by
+pressing LEFT and RIGHT on the dreamcast controllers.
+
+You can get back to the main menu by pressing Analog down+Start.
+
+Enjoy!

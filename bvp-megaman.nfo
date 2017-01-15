@@ -1,0 +1,50 @@
+MegaMan Mega Collection
+
+Dreamcast - Selfbooting disc image
+
+This is just the latest build of uNESter (3 or so..) with Some MegaMan (and RockMan) roms.... it selfboots to game.nes which is MegaMan 1.
+
+ROMS:
+- MegaMan 1, 2, 3, 4, 5, and 6
+- RockMan 1 and 3
+
+-----------------------------------------------------------------
+
+Controller settings:
+     	- NES DPAD	= DC DPAD
+     	- NES start  	= DC start
+     	- NES select 	= DC Y
+     	- NES A 	= DC A or DC B
+     	- NES B      	= DC X or DC A
+
+	- Press the right and left triggers at the same time to 
+	  exit from a game to the main menu & select a different rom.
+
+-----------------------------------------------------------------
+
+Options:
+	- Frame skip : 	Range 0-4. 
+				0 - display every frame
+			       1 - display 2 frames, skip 1 frame
+			      * 2 - display every other frame
+				3 - display 2 frames, skip 2 frames
+				4 - display 1 frame, skip 2 frames 
+	- Adjust NES A and B Buttons.
+			      *	[NES_B = DC_X] [NES_A = DC_A]
+				[NES_B = DC_A] [NES_A = DC_B]
+				[NES_B = DC_X] [NES_A = DC_B]
+	- Toggle Sound 
+			      	[OFF]
+			      * [ON]
+	- Toggle 1 / 2 Player Mode
+			      *	1 Player 
+				2 Players
+	- Toggle Save Support
+			      * [OFF]
+				[ON]
+	Note: The default option has a * before it.
+
+-----------------------------------------------------------------
+
+Enjoy,
+BvP

@@ -1,0 +1,51 @@
+
+          Title....: Project Berkley        
+
+          Supplier.: Hykan         -  Date.....: 30/08/2005
+          Selfboot.: Hykan         -  Genre....: Demo
+          Platform.: SEGA DC       -  Files....: 34x20MB
+          Origin...: JAP/NTSC      -  Filename.: hyk-pbmpg.partxx.rar
+          Type.....: mpg+raw files -  Ripped...: Nothing
+                                                                           
+________________________________________________________________________________
+
+  Disk info:
+- ----------------------------- -                                                  
+
+Project Berkley is the name of the game Shenmue while in development stage.
+
+This is the Demo disk that comes with Virtua Fighter 3tb (J) (time limited offer)
+
+Its in Japanese and is a 31 minutes video (I dont understand Japanese, and so
+I only know its something about Shenmue....)
+
+http://www.sega.co.jp/dc/db/981004.html
+
+
+
+  Release Notes                                                
+- ----------------------------- -                                                                                                                  
+The GD contains only 2 files : 1st_read.bin and movie_a.sfd    
+
+1st_read.bin does nothing more than showing the video and loops it
+movie_a.sfd is a 31 minutes video and is over 930M and hence wont even fit on
+a 99min CDR.
+
+I have successfully downsampled it by 15% and fits on a 99min CDR and play with 
+a 3rd party SFD player on Dreamcast.
+
+However, I cant make it sekfboot with the original 1st_read.bin.
+I have tried Dahack, Binhack, Hack3, manually search for CD001, "CDE4 436A"
+and "1032 0D8B". All failed.
+
+I see no point in releasing this disk with 15% downsampling (94minutes on CD)
+or even 30% to fit on a 80min CDR and selfbooted with a third party player while 
+all this disk about is just a video, so I release it as an mpg file - everyone 
+can play it full quality on a PC (or a mac or whatever)
+I have included the original 1st_read.bin and ip.bin with the release. So you 
+may try to selfboot it yourself ;)                                                  
+
+
+Greets
+Gosseyn , Rayearth , blibbero , NU-NRG & all contributing members of Sega Palace
+         

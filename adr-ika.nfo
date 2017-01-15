@@ -1,0 +1,127 @@
+                 /\
+                /  \                               _                          _
+               / /\ \                             | |              _         | |
+              / /  \ \        __ __      __ __    | |           _ |_|  __    | |
+             / /    \ \      _\ \\ \    / /|  \   | |    /\    | | _  |  \   | |
+            / /      \ \___/| |\ \\ \  / / | \ \  | |   /  \   | || | | \ \  | |
+           / /      __\/__/ | | \ \\ \/ />>| |\ \ | |  / /\ \  | || | | |\ \ | |
+          / /   ___/__/\ \  | | / // /\ \>>| | \ \| | / /  \_//| || | | | \ \| |
+         / /___/__/     \ \ | |/ //  \ \ \ | |  \ \ |/ /__//\ \\ \\ \ | |  \ \ |
+        /__ /__/         \_\|___//_/\_\ \_\|_|   \__|__//    \_\\_\\_\|_|   \__|
+        ========================================================================
+        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+        ========================================================================
+                               
+****************************************************************************************
+
+Title           : Ikaruga                                         Company  : Treasure
+                                                                            
+
+Platform        : [ ] PS One                                      Origin  : [ ] Europe
+                  [ ] PS2                                                   [ ] USA
+                  [x] D/C                                                   [x] Japan
+
+Patch           : [ ] EA FIX                                    Apply to  : [ ] DVD Full
+                : [x] Video Mode   [ ] NTSC 2 PAL                           [ ] DVD Rip
+                                   [x] PAL 2 NTSC                           [x] CD
+                                   [ ] Y FIX
+
+Patch Type      : [x] PPF 3.0 (http://www.paradogs.com)    Patch Routines : MacTheFork 
+
+Supplier        : W00T                                       Release Date : 4/09/2002
+
+****************************************************************************************
+
+----------------------------------------------------------------------------------------
+                                  General Information                                   
+----------------------------------------------------------------------------------------
+
+Ok nice simple fix for PAL 2 NTSC patch for all you Ikaruga freaks. This being one of the
+last if not _the_ last DC game its a shame it plays in PAL. Ah well enjoy :)
+
+This should be applied to the .cdi image available.
+
+
+
+- MacTheFork -
+
+----------------------------------------------------------------------------------------
+                                          Usage
+----------------------------------------------------------------------------------------
+
+Please extract all files contained within this zip to your hard drive and run the
+'adrcheck.exe'.
+
+If all files pass verification,
+
+Apply the 'ppf' using the appropriate patching program released by Paradox
+www.paradogs.com
+
+----------------------------------------------------------------------------------------
+                                      Please Help
+----------------------------------------------------------------------------------------
+
+If you use our program or even if you don't but you'd like to do something positive in
+the fight against CANCER, then please visit:
+
+                                   http://www.ud.com
+
+We would appreciate it if people would join the Intel-Devices Cancer Research
+Project as the cure for CANCER requires a lot of computing power! Perhaps together
+we can help crack it!
+
+----------------------------------------------------------------------------------------
+                                        Visit Us
+----------------------------------------------------------------------------------------
+
+                                  http://www.adr-uk.com                           
+
+----------------------------------------------------------------------------------------
+                                    Visit Our Friends
+----------------------------------------------------------------------------------------
+
+                               http://www.console-news.org
+
+                  For the most up to date PS2 / XBOX ISO release info.                     
+
+----------------------------------------------------------------------------------------
+                                         Greetz
+----------------------------------------------------------------------------------------
+
+Best wishes to our friends :
+
+CONSOLE-NEWS.ORG Staff, m0z & dazzor (aRR), The PlayStation 2 Chimps and anyone doing
+anything constructive within the console community and beyond...
+
+                                 YOU KNOW WHO YOU ARE !
+
+----------------------------------------------------------------------------------------
+                                    Atari ST Greetz:
+----------------------------------------------------------------------------------------
+
+All the other ex-members of ADRenalin UK (ST cracking days were the best!), Automation
+(Was Not Was / Vapour) / D-Bug (HotKnife), Cynix (Supernova, Skywalker & Milkybar Kid),
+Mug UK, The Pompey Pirates (Alien) and our Demo Coding friends:
+Persistence Of Vision (MSD, Boris and Oz), Chaos (Ben), PHF (Grazey) and Digi Tallis.
+
+----------------------------------------------------------------------------------------
+                              Current ADRenalin UK members :
+----------------------------------------------------------------------------------------
+
+                                          Kylix
+                                        MacTheFork
+                                          Monty
+                                          Mookie
+                                         Prisoner
+                                         STARGATE
+                                          Tiger
+                                         TZoneman
+
+----------------------------------------------------------------------------------------
+                                    Missing In Action:                                    
+----------------------------------------------------------------------------------------
+
+                                        Bleemer2.
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------

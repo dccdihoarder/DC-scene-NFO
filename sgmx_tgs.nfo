@@ -1,0 +1,109 @@
+                                ??????                ?
+             UUUUU          ?????????????           ???UU                  ??   
+           UUUUUUUUU      ?????????????U??      ???????UU                ????   
+         UUUUUUUUUUUU  ????????????????UUU     ??????UUU?             ???????   
+        UUUUUUUUUUUUUU?????????????????UUUU      ?UUUUU???       ???????????    
+       UUUUUUUUUUUUUUUU???????         UUUUU    UUUUUU?????       ?????????     
+   UU   UUUUUUU   UUUUU?????   ??????????UUUUU UUUUUU????????      ???????      
+ UUUUU    UUUUU    UUUU????  ?????????????UUUUUUUUUUU  ????????    ??????       
+UUUUUUU     UUUU    ??????? ??????????????UUUUUUUUUU     ??????????????         
+UUUUUUUU     UUUUU  ??????? ??? ?????????UU UUU  UUU       ??????????           
+UUUUUUUUU      UUUUU???????  ??  ??? U??UUU  U   UUUU        ??????             
+UUUUUUUUUU     UUUUUU???????     ??? UUUUU       UUUUU       ???????            
+UUUUUUUUUUU   UUUUUUU????????   ????UUUUU       UUUUUUU     ??????????          
+ UUUUUUUUUUUUUUUUUUUUU?????????????UUUUUU       UUUUUUUU   ?????????????        
+  UUUUUUUUUUUUUUUUUUUU????????????UUUUUUU       UUUUUUUUU ??????  ???????       
+    UUUUUUUUUUUUUUUUU  ??????????UUUUUUUU      UUUUUUUUUU??????    ????????     
+     UUUUUUUUUUUUUUU     ??????UUUUUUUUUUU    UUUUUUUU ????????     ????????    
+       UUUUUUUUUUU           UUUUUUUUUUUUU    UUUUU  ??????????      ????????   
+         UUUUUUUU          UUUUUUUUUUUUUUUU  UUU    ??????          ??????????  
+           UUUU        - SEGAMAX - UUUUUUUUU       ?????           ??????????       
+                                         UUUU      ??               ????????       
+        
+[--> Release <----------------------------------------------------------------]
+
+    Proudly Presents:
+
+    Software: DREAMCAST EXPRESS VOL4 - GDROM2 - Tokyo Game Show Autumn 1999
+    
+    Supplier  ~ [SGMX]TEAM                |Filename ~ sgmx_tgs * 38 * 20MB
+    Platform  ~ DC                        |Format   ~ Discjuggler v4 (cdi)
+    Origin    ~ Jap                       |CD(s)    ~ 1 (80min)
+    Released  ~ 1999                      |Ripped   ~ see Notes
+    Game Type ~ TGS report                |Extra    ~ cover
+    Ripped on ~ 1 September 2008
+
+
+[--> Informations <-----------------------------------------------------------]
+
+This is the second disk of Dreamcast Express4 and contains movies taken at the
+Tokyo Game Show in 1999. This disk also contains 3 VMU extras:
+- F355 Challenge VM operator
+- J.league Soccer Club o Tsukurou 
+By using this data, you'll be able to scout a character that appeared in the 
+Saturn version (J.league Soccer Club o Tsukurou 2)
+- Pro Yakyu Team o Tsukurou!
+Try to defeat the team of Take, winner of the tournament held at the TGS 1999.
+
+You'll also find MOV0014.SFD (Golf Yarouze) on the disc, although it doesn't appear
+in the menus of the game... something they forgot to add ?
+Unfortunately, this disc can not be played on the VGA Box...
+
+
+[--> Rip Notes <--------------------------------------------------------------]
+
+This disk contained 956 MB of movie data, so we had to downsample some movies.
+Bitrate was changed to 1150kbits/s, movie size had to remain the same, otherwise 
+the player couldn't display them fullscreen anymore.
+ - all TGS movies serving as menu were downsampled (MOV1*.SFD & MOV0008.SFD)
+ - the next logical choice was the two soccer game movies MOV0026.SFD & MOV0039.SFD
+	(who cares about soccer games anyway ? :p)
+ - then 2 of the bigger movies were downsampled: MOV2001.SFD (D2) & MOV0018.SFD
+        (Virtua On)
+Result is 79:40:03, which is a nice fit...
+
+
+[--> Releases <---------------------------------------------------------------]
+
+001 ~ Monaco GP Racing Simulation 2 (c) Ubisoft 1999                 ~ PAL/EURO ~ 14/10/99
+002 ~ Crazy Taxi (c) Sega 2000                                       ~ PAL/EURO ~ xx/02/00
+003 ~ Tomb Raider 5 (c) Core/Eidos 2000                              ~ PAL/EURO ~ xx/12/00
+004 ~ Phantasy Star Online (c) Sonic Team / Sega 2001                ~ PAL/EURO ~ 15/02/01
+005 ~ 18 Wheeler American Pro Trucker (c) Sega 2001                  ~ PAL/EURO ~ 18/05/01
+006 ~ Half Life *Repack* Sierra Studios/CDL 2001                     ~ USA/NTSC ~ 13/07/01
+007 ~ Head Hunter (c) ?/? 2002 *50/60Hz*                             ~ PAL/EURO ~ xx/02/02
+008 ~ Sakura Wars 4 Bonus Disc (c) 2002                              ~ JAP/NTSC ~ 21/03/02
+009 ~ Rail Road Tycoon                                               ~ PAL/EURO ~ 20/06/02
+010 ~ Toy Commander (c) No Cliche / Sega 1999                        ~ PAL/EURO ~ 10/08/02
+011 ~ King Of Fighters 2001 *60Hz Fix*                               ~ JAP/NTSC ~ 26/12/02
+012 ~ Yumebaken'99 Internet                                          ~ JAP/NTSC ~ 22/07/03
+013 ~ D2-Shock!                                                      ~ JAP/NTSC ~ 21/07/03
+014 ~ The Flintstones Viva Rock Vegas / Swing 2000                   ~ PAL/EURO ~ 01/01/05
+015 ~ Pro Yakyu Team Wo Tamesou! / Sega 1999                         ~ JAP/NTSC ~ 16/01/05
+016 ~ Evil Twin French / Ubi Soft 2002                               ~ PAL/EURO ~ 17/01/05
+017 ~ DreamFlyer / Sega 1999                                         ~ JAP/NTSC ~ 09/05/05
+018 ~ Radirgy / Milestone 2006                                       ~ JAP/NTSC ~ 08/03/06
+019 ~ Under Defeat OST / Grev 2006                                   ~ JAP/NTSC ~ 09/05/06
+020 ~ Dreamcast Press Kit 2000                                       ~    PC    ~ 16/05/06
+021 ~ Guru Guru Onsen 3 / Sega 2002                                  ~ JAP/NTSC ~ 19/11/06
+022 ~ Trigger Heart Exelica OST / Warashi 2007                       ~ JAP/NTSC ~ 16/03/07
+023 ~ Virtual On - 5.66 Customization Disc/ Sega 2000                ~ JAP/NTSC ~ 08/05/07
+024 ~ Toyota Doricatch Series - Land Cruiser 100/Cygnus/ Sega 1999   ~ JAP/NTSC ~ 03/01/08
+025 ~ Wind and Water: Puzzle Battles Demo / Yuan Works 2008     	 ~   Multi  ~ 07/20/08
+026 ~ Karat DC Pro Action Replay CDX/ Datel 1999			    	 ~ JAP/NTSC ~ 08/27/08
+027 ~ Tokyo Game Show Autumn 1999 (DC Express 4 Disc 2)/ Sega 1999   ~ JAP/NTSC ~ 31/08/08
+
+[--> Special Greets <---------------------------------------------------------]
+
+NuNRG - DCP - Hykan - To all the Fans who kept the dreamcast alive till 2008 !
+
+
+[--> Group <------------------------------------------------------------------]
+
+You don't have any friend, contact us, we'll may find one for you :)
+If you want to know more about us, you can try also our mail here below
+
+e-mail: segamax@gmail.com
+
+
+[--> 4 the 2008 DC scene ! ---------------------------------------------------]

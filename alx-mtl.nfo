@@ -1,0 +1,17 @@
+  _    _ ____  ____    ___  __   ____ _    ___
+ | \  / |  __]/  _ \  / _ \|  | |  __] \  /  /
+ |  \/  | [__   / \_|| [_] |  | | [__\  \/  /
+ |      |  __] (  __ |  _  |  | |  __])    (
+ |  \/  | [__   \_\ \| | | |  |_| [__/  /\  \
+ |__||__|____]\_____/|_| |_|_____]___]_/  \__\
+
+-------------------------------------------------
+        MY TENNIS LIFE -PAL / 60 Hz FIX-
+
+  This is a patch for Hooligans release of "My
+  Tennis Life" that doesn't work on PAL DC.
+
+  Just apply ALX-MTL.PFF to CDI.
+  It fixes PAL problems but also unhides
+  1st_read.bin & Hooligans dummy file.
+-------------------------------------------------

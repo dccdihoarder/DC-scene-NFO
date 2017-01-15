@@ -1,0 +1,15 @@
+
+
+***Grandia 2 Correct Movie Fix***
+
+Use ISOBUSTER and extract all of the files from Echelon's Grandia 2 US to a
+directory.  Then unrar all of the files from this fix to \DATA\BTL directory of
+the Grandia 2 US.  Overwrite when prompted.  The final size of the game will be
+over 730meg so you will need to remove the intro file from the game.  Replace
+\LOGO\CG01.SFD with \LOGO\CG10.SFD.  This will replace the intro with the
+clip of Echelon's "Insert Disc 2" movie file.  The final size will now be
+roughly 728meg, you can now burn the CD using Nero with LEVEL 2, MODE1, JOLIET
+settings.
+
+-MysticWar
+If you have any question, find me on Efnet.  !!!!NO REQUEST!!!!

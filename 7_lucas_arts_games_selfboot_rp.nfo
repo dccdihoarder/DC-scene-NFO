@@ -1,0 +1,38 @@
+Lucasarts Selfboot CD for DC and Windows!
+.........................................
+Made by godeater using the great ScummVM 
+.........................................
+
+Burn the cdi-file with DiscjJggler or Alcohol 120%
+
+It contains the following games:
+
+Mamiac Mansion
+Day of the Tentacle
+Monkey Island 1
+Monkey Island 2
+Indiana Jones 3
+Indiana Jones 4
+Sam & Max
+
+All games are playable on the Dramcast and savegames can
+be saved to the VMU. Sound doesn't work in some games.
+A keyboard is needed to enter names for the savegames. 
+The games can be played with a controller, but I suggest 
+you use the dreamcast mouse.
+
+....................................................
+
+This CD contains also the windows-version of ScummVM. 
+Just put it in your windows computer and the menu should 
+come up automatically. If it doesn't just run 
+SCUMMWIN.BAT from the CD. Savegames will be saved under
+C:\saves\.
+
+Some useful keys for the Windows-version:
+
+ALT-ENTER	toggle fullscreen
+F5		load-save menu
+ESC		skip cutscene
+
+....................................................

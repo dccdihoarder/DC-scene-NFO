@@ -1,0 +1,133 @@
+   _____________________________________________________________________
+   ________________________TrEb BRAZIL_______________________________
+
+     `- Proudly Presents:
+
+      Game.....: SMEG MASTER SYSTEM Emulator + 650 ROMS (c) Heliophobe
+
+      Origin...: BRA - NTSC           -  Filename.....: eb-smeg.001
+      Released.: Feburary 25th, 2002  -  Format.......: DiscJuggler (CDI)
+      Platform.: Sega Dreamcast (DC)  -  CD(s)........: 1
+      CD1 Info.: 04 RARS / 74 MINS
+      
+     - --- Release Notes ------------------------------------------------>
+    
+     Smeg V0.84 
+     Released October, 2001
+
+     --Program Description--
+
+     Smeg is an emulator the Sega Master System (SMS) and Game Gear (GG)
+     game consoles, which runs on the Sega Dreamcast console. Run games
+     in Full Speed, Full Sound and Full Screen :)))
+
+     
+     --GUI Basics--
+
+     The GUI should be obvious to anyone who.. well, to anyone. In general,
+     the 'A' button is used to select the highlighted menu option, and 'Y' 
+     is used to cancel out of a menu without making a selection. Pressing 
+     'Y' at the main menu leaves the menu and returns to the running game, 
+     if a game has been loaded. If an option is visible but dimmed then it 
+     is unavailable (it's ghosted).
+
+     At the main menu you can choose to load a rom, continue a running 
+     game (only if one is running), enter a submenu of video options, a 
+     submenu of game options, or view a screen with information about 
+     the program.
+
+     Selecting 'Load Rom' will show you a directory listing of the available
+     rom files on the current disc. Move the directional pad up and down to
+     scroll through the list of roms. Moving the pad left and right will 
+     move a screen at a time. When you attempt to move past the top or bottom
+     of the list it will wrap around. Press 'A' to load and run the selected
+     rom. Directories are denoted by brackets surrounding the directory name.
+     Press 'A' to view the contents of the highlighted directory. Press 'Y'
+     to cancel out without loading a rom, which will allow you to keep your
+     currently running game. 
+
+     Under Video Options you can choose to reposition the viewing area on your
+     screen, as well as changing the size of the screen. Select "Screen
+     Position/Size" and follow the onscreen instructions. You can also enable
+     or disable smooth stretch. Smooth stretch applies a bilinear filtering to
+     the game screen when it is scaled up to the full size of your display.
+     If you are using a VGA monitor you will almost certainly want to enable
+     smooth stretch, otherwise the uneven pixels sizes will make for an ugly
+     "rippling effect." On a TV smooth stretch isn't really needed, as a TV
+     smooths out the picture automatically (in other words, a TV display is
+     naturally blurry). Turning on smooth stretch might be overkill.
+     I personally prefer to keep it on even on the television.
+
+     Under Game Options you can switch the role of the A and B buttons in the
+     emulator, as well as selecting 50 or 60hz gameplay speed (60hz default).
+     European SMS players might want to choose 50hz if 60hz seems too fast.
+     Note that this doesn't cause Smeg to generate a 50hz video signal, rather
+     it just slows down the gameplay to simulate 50hz.
+
+     NOTE THAT OPTIONS WILL NOT BE SAVED WHEN THE POWER IS TURNED OFF.
+     VMU saving has not yet been implemented, so whenever you boot up Smeg you
+     will have to reset your preferences.
+
+     --Emulator Controls--
+
+     the digital pad controls the d-pad on the SMS controller. Buttons A and B
+     are mapped to buttons 1 and 2 (this can be reversed in the options screen).
+     The start button will function as either the Pause button (in SMS games) or
+     the Start button (in the Game Gear). Hold down X and press start to do a
+     soft reset (SMS only). The 'Y' button enters the main menu.
+
+     You can also use the analog stick to control games that use a paddle,
+     such as Alex Kidd BMX Trial and Megumi Rescue.
+
+     Two controllers can be inserted for two player games. Smeg will always select
+     the leftmost controller as player 1's control and the next one to the right as
+     player 2's. It will attempt to autodetect controllers as they are added and
+     removed, and will return to the main menu when all controllers are removed
+     (in case you pull it out by accident, you won't lose control of your game).
+     However, this behavior isn't 100% reliable so the best thing to do is to plug
+     in the controllers you want before turning on your Dreamcast.
+
+     --Information and Contacts--
+
+     If you have any questions you can email me directly at smeg@kenseiden.com.
+     I also check up on the forums at the following web sites:
+
+     dcvision.com
+     boob.co.uk
+     dcemulation.com (on and off)
+     smspower.org (better place for questions about Sega 8-bit games in general)
+
+     The smeg website is at www.kenseiden.com/smeg -- I don't always update it
+     with the latest information, as I have had trouble with my webhosting there,
+     but it's still worth checking for updates and the newest versions.
+
+     --Thanks and Greetings--
+
+     copied from the about screen:
+
+     Big thanks to:
+     Juergen Buchmueller (fast, portable z80 core)
+     Bock (Zoop), Maxim, Mike G, Charles MacDonald, Eric Quinn,
+     and all S8 Dev regulars (SMS research and information by the bucketload
+     Richard Talbot Walkins (SMS Documentation)
+     All Beta Testers (for sniffing out bugs a plenty)
+     Dan Potter, Andrew K, Maiwe, Marcus Comstedt,
+     Bitmaster, and others (LibDream and Dreamcast Information)
+     Grey - Digital Target (Initial DC Coder setup, Encouragement)
+     Jagaadelic (Extensive testing, neat logo)
+     Gonzo, Ss_teven, Hiraoka, Regex, BigBoy, Sayten (technical advice)
+
+     - --- Releases ----------------------------------------------------->
+
+     Num  Game Title & Publisher                    Origin      Date
+     ---  ----------------------                    ------      ----
+     001  DreamMSX 142 Games Full Playable         BRA/NTSC    02/06/01
+     002  SMEG SMS Emulator 650 ROMS (c)Heliophobe BRA/NTSC    02/25/02
+     - --- Greetings ---------------------------------------------------->
+
+     ECHELON, FAIRLIGHT, CLASS, DEVIANCE, MYTH, PARADOX, CCS, ACCESSION, 
+     STATIC, MENACE, EURASIA, CAPITAL, AGGRESSION, LIGHTFORCE & RAZOR. 
+
+     - -------------------[ #EB-Isoz Brazil by EmuBoarding ] --------------->
+
+Thank's Echelon...

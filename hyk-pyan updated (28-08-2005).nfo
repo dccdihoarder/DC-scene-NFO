@@ -1,0 +1,54 @@
+
+          Title....: Proyakyu Team de Asobou Net         
+
+          Supplier.: Rayearth      -  Date.....: 08/08/2005
+          Selfboot.: Hykan         -  Genre....: Sport
+          Platform.: SEGA DC       -  Files....: 19x20MB
+          Origin...: JAP/NTSC      -  Filename.: hyk-pyan.partxx.rar
+          Type.....: CDI           -  Ripped...: Nothing
+                                                                               
+_________________________________________________________________________________
+
+  Release Notes                                                
+- ----------------------------- -                                                                                                                  
+                                                                               
+Thanks to Rayearth for supplying the raw GD rip of this game.
+
+All I did was to find the correct LBA to extract the data,
+Run DAHACK and CDDA on 1st_read.bin,
+burnt track4 of the raw data as CDDA in session one (of the Echelon's methods),
+binhack ip.bin and 1st_read.bin and burnt all the data as session 2.
+
+I have no idea if the CDDA works but acoording to Rayeath, no CDDA was ever heard 
+during game play (with original GD) anyway.
+I have never been a good gamer nor do I understand any Japanese, so all I can say 
+is the game boots normally ;)
+
+ Release Notes updated 28/08/2005
+- ----------------------------- - 
+The above release note was a bit technical and have confused some users.
+
+The info is useless to 99% of the users. All you need to do is unrar-burnt and run.
+
+The info was intended for technical users who know what they are doing and if they 
+found anything wrong with my procedures, they can correct me or perhaps release a ppf.
+
+There is a similar game Pro Yaku Team De Asobou! (J) (idh-pya.rxx), but this release
+is different, it specifies "Net". I dont know the details of the differences but I would guess this one could be played online.
+please refer to:
+http://www.sega.co.jp/dc/db/990710.html for Pro Yaku Team De Asobou!      and
+http://www.sega.co.jp/dc/db/000805.html for Pro Yaku Team De Asobou Net!
+
+One last note (technical stuff again :p  ):
+Since I dont have a way to connect my Dreamcast to the Internet (no BBA, no modem)
+and I dont think there is a server still online for this game, I didnt hack the 
+Internet files (2_DP.BIN,MAIGO.BIN,,SG_DPLDR.BIN). 
+I would rather leave them untouched so that if someone who can connect this game
+online will have the original stuff to start hacking with (change LBA to 45000 or 
+hack the Internet files or contact me for a test ppf....etc)
+
+All other *.bin files have been checked for "CD001" and none seems need to be hacked.
+
+Greets
+Gosseyn , Rayearth , blibbero , NU-NRG & all contributing members of Sega Palace
+         

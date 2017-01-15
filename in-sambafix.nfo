@@ -1,0 +1,79 @@
+                ..::((__))                       ((__))::..
+  <-----------------|)_(0\----------------------/(0)_(|---------------->
+<-|-|----------------------------------------------------------------|-|->
+  |./   .___  _______   ________   .____     ___________ _______     \.|
+  |:.   |   | \      \  \_____  \  |    |    \_   _____/ \      \    .:|
+  |:::. |   | /   |   \  /   |   \ |    |     |    __)_  /   |   \ .:::|
+  |     |   |/    |    \/    |    \|    |___  |        \/    |    \    |
+  |     |___|\____|__  /\_______  /|_______ \/_______  /\____|__  /    |
+  |                  \/         \/         \/        \/         \/     |
+<-|--------------------------------------------------------------------|->     
+  |                             I N O L E N                            |
+.:|            Presents: : Samba De Amigo-NTSC Internet Fix            |:.
+<-+--------------------------------------------------------------------+->
+  |            Origin.....: USA                                        |
+  |            Date.......: 1-21-00                                    |
+  |            Platform...: Sega Dreamcast(DC)                         |
+  |            Filename...: in-sambafix.zip                            |
+  |            Format.....: ZIP (WinZIP/WinRAR/WinACE)                 |
+  |            CD(s)......: Not Applicable                             |
+  | |----------------------------------------------------------------| |
+  |--+:-                     Group Notes                          -:+--|
+  | |----------------------------------------------------------------| |
+  |                         Greets Groups!                             |
+<-+--|- -                                                           - -|--+->
+  :--|-----------------------Release Notes---------------------------|--:
+.:+--|- -                                                           - -|--+:.
+  |                                                                    |
+  |  This is just a fix for the internet in the NTSC version of        |
+  |  Samba De Amigo. It uses the new selfboot method and contains 2    |
+  |  dummy files for 74 min and 80 min cds.                            |
+  |  00074DUMMY.DAT and 00080DUMMY.DAT                                 |
+  | |----------------------------------------------------------------| |
+  |--+:-                        Info                              -:+--|
+  | |----------------------------------------------------------------| |
+  |  1. Copy the original Samba De Amigo files off the cd or use       |
+  |  DexT's cdirip at http://cdirip.freeyellow.com and extract the cdi |
+  |  to an iso by typing this in a DOS prompt:                         |
+  |  cdirip e-samba.cdi                                                |
+  |  then run his program isofix and enter in 11700 as the             |
+  |  LBA, then load it in IsoBuster, which you can get here:           |
+  |  http://www.ping.be/vcd/downloads/isobuster/isobuster.zip          |
+  |  and then extract the files into a folder called Samba like        |
+  |  C:\Dreamcast\Samba\                                               |
+  |                                                                    |
+  |  2. Now extract the 4 files files from this zip( 1ST_READ.BIN,     |
+  |  2_DP.BIN, MAIGO.BIN, SG_DPLDR.BIN ) into your Samba folder. Also  |
+  |  place whichever dummy applies to you in the Samba folder.         |
+  |                                                                    |
+  |  3. Now delete the 0A.DAT from the Samba directory! Thats the old  |
+  |     dummy file.                                                    |
+  |                                                                    |
+  |  4. Download the CDRECORD tools from here:                         |_________
+  |  ftp.fokus.gmd.de/pub/unix/cdrecord/alpha/win32/cdrtools-1.9a03-win32-bin.zip|
+  |  Extract them to the folder below your Samba folder like:          |---------
+  |  C:\Dreamcast                                                      |
+  |  Run mkisofs with:                                                 |
+  |  mkisofs -C 0,0 -l -V Samba -o data.raw Samba                      |
+  |--------------------------------------------------------------------|
+  |  Now for CDRWin users do this:                                     |
+  |  Burn data.raw with CDRWIN using Record ISO9660 Image with settings|
+  |  CD-XA, Mode 2. Make sure Finalize Session, and Write Postgap are  |
+  |  checked. Tick Open New Session.                                   |
+  |  Now burn ip.raw( from the zip ) with CDRWIN using Record ISO9660  |
+  |  Image with settings CD-XA, Mode 2. Make sure Finalize Session, and|
+  |  Write Postgap is checked. Uncheck Open New Session. Now burn.     |
+  |--------------------------------------------------------------------|
+  |  Now for cdrecord users do:                                        |
+  |  cdrecord dev=0,x,0 speed=x -multi -xa1 data.raw                   |
+  |  once thats done burning type:                                     |
+  |  cdrecord dev=0,x,0 speed=x -multi -xa1 ip.raw                     |
+  |  Replace the x in 0,x,0 with your cd recorder's drive number( you  |
+  |  oughta know this # by now! ) and replace the x in speed with what |
+  |  speed to burn at like 4.                                          |
+  |--------------------------------------------------------------------|
+  |  Pop the game in your dc now and enjoy! - inolen                   |
+<-+--------------------------------------------------------------------+->
+.:(/-\)-\+>----------------------------------------------------<+/-(/-\):.
+__/.:.\__\------------------------------------------------------/__/.:.\__   
+:(________)<-------------------------------------------------->(________): 

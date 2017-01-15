@@ -1,0 +1,33 @@
+ 
+          Title....: Net versus Shogi         
+
+          Supplier.: Hyk           -  Date.....: 26/05/2005
+          Cracker..: R18           -  Genre....: Chess
+          Platform.: SEGA DC       -  Files....: 12x20MB
+          Origin...: JAP/NTSC      -  Filename.: hyk-netvsshogi.partxx.rar
+          Type.....: CDI           -  Ripped...: see note
+
+This is not a rip off the original GD. Instead, its a hack of  Hooligan's release
+of Net Versus Chess (hlg-jchs). So for those of you can read Chinese, dont complain
+that the IP logo is wrong ;)
+
+All the Net versus series of games are actually available in the original GD ready
+to be activated online. A quick file comparision will show that all the six
+scene releases of the Net versus series are basically identical. Only one byte
+in 1st_readme.bin determines which game is to be activated.
+For those of you who know how to hex edit an image, you can DIY Shogi instead
+of downloading the this release:
+
+	hlg-jchs.cdi :offset 1791e3dc, or 
+	1st_read.bin :offset 0374.
+		1=Reversi
+		2=Mahjong
+		3=Hanfuna
+		4=Chess
+		5=Gomoku
+		6=Igo
+		7=Shougi
+		
+A ppf hyk-nvs.ppf is also made for those who want to save bandwidth.
+Apply PPF to hlg-jchs.cdi. DO NOT apply to hyk-netvsshogi.cdi.
+Burn with Alcohol 120% RAW/DAO.

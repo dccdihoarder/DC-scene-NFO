@@ -1,0 +1,50 @@
+=================================================================
+====  Tony Hawk's Pro Skater 2 [2000][Activision][NTSC][US] =====
+=================================================================
+ Release Info:
+
+                      Source : TOSEC GDI
+                      Region : NTSC (En)
+                    Released : 5/26/09
+                 CD's / Size : 1 cd / 700mb
+                   File Name : ovr-thps2.cdi
+                 Compression : RAR [20mb][32 RAR's]
+                    Platform : Sega Dreamcast
+                      Format : CDI ( Disc Juggler )
+                      Ripped : Nothing
+                 Downsampled : See Notes                   
+
+=================================================================
+ Game Info:
+
+ Tony Hawk 2 is a textbook example of how to make a sequel. It
+takes everything that made the first game great and basically
+bumps it all up a notch. As a result, levels are larger, the
+level goals are much more varied, there are more tricks, more
+options, and so on. All the professional skaters from the first
+game have returned, and new skaters like Rodney Mullen, Eric
+Koston, and Steve Caballero have been added to the roster.
+[ 9.9/10 -Gamespot ]
+
+=================================================================
+ Down-Sample Info:
+
+ Only 5 of 35 SOFDEC videos have been re-encoded:
+ - ATVLOGO.SFD 2.4Mbps --> VBR 1.85Mbps
+ - INTRO.SFD 3.6Mbps --> VBR 1.10Mbps
+ - SM.SFD MS.SFD OD.SFD 3.6Mbps --> VBR 0.95Mbps
+
+=================================================================
+ Other Info:
+
+ Multiple files contain identical crc32 values, so they have been linked with LBA copier to save disc space losslessly.
+
+ For preservation of quality, our rips retain original file sort,
+lba, ip.bin (when not protected), and volume label from GD-Rom.
+Ip.bin IS modified to enable region-free and vga support.
+
+=================================================================
+          Respect to TOSEC group for high quality dumps          
+
+ 5/26/09          Enjoy This High Quality Rip           OVERRiDE
+=================================================================

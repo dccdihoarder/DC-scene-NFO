@@ -1,0 +1,111 @@
+      _|_____________________:___________________:_______________________|_  
+       |/::/                 |                   |                   \::\|   
+       |::/                  ^___________________^                    \::|   
+       |:/                   |-- # d c h e l p --|                     \:|   
+       |/                    -----------:--------:                      \|   
+       |                                ^________^                       |   
+       :                                |on EFnet|                       :   
+       :                                ----------                       :   
+       .                _ __ _____    _ ______   _ __ ________           .   
+       :      __//_//__       /  /____   /   /_ __ _____  /  /  ______   :   
+       :     --//-//--  _____/  //  _/  /  _/_   ____   \/  /  / __  /   :   
+       |    __//_//__  / ___   //  |   /      \_/   _|  /  /  / /_/ /    |   
+       |   --//-//--  / /__/  //   |__//  /   //   ____/  /__/  ___/     |   
+       |    // //     \______/ \_____/___/___/\_______/_____/__/         |   
+       |                                                           -mahs |   
+      _|_________________________________________________________________|_  
+       |                                                                 |   
+                                                                             
+           - Proudly Presents:                                               
+                                                                             
+         Release.....:   Sonic Adventure, INTERNET FIX                       
+                                                                             
+         Origin......:   USA 	                                             
+         Released....:   01-17-2001                                          
+         Platform....:   Dreamcast                                           
+                                                                             
+         File info                                                           
+   	    Filename.:   dc-sonic_net.zip                                    
+	    Files....:   01  	                                             
+	    Format...:   see below                                           
+                                                                             
+         Fixed by....:   Fullasoul                                           
+                                                                             
+      _|_________________________________________________________________|_  
+       |                        Release Info                             |   
+      -|-----------------------------------------------------------------|-  
+       |                                                                 |   
+       :                                                                 :   
+       .                                                                 .   
+                                                                             
+      Well  as mentioned in the last release, there was more coming...since  
+      there  were  several  good releases that didn't have working internet  
+      functions  before  Echelon's  great  work  on  Q3.  Here's  the  next  
+      one...Sonic  Adventure!  Those  of you who have had the chance to try  
+      the  net  functions  of  this  release  know there's a good wealth of  
+      exclusive  "goodies"  to see when you go online with this game. World  
+      rankings,  downloadable  events  and  minigames, exclusive maps/tips,  
+      even a direct link onto the Sonic IRC channels!                        
+                                                                             
+       .                                                                 .   
+       :                                                                 :   
+      _|_________________________________________________________________|_  
+       |                        Instructions                             |   
+      -|-----------------------------------------------------------------|-  
+       |                                                                 |   
+       :                                                                 :   
+       .                                                                 .   
+                                                                             
+      Pretty  straight  forward...just  rip  all of the game data from your  
+      previously  burned  disc  (or  extract  from  the  image)  and  place  
+      everything  in  a  directory  on your HD (ie "data"). Now replace the  
+      versions of the files in your directory with the versions included in  
+      our   ZIP.   You  then  MUST  delete  EVENT_ADX.AFS  (do  NOT  delete  
+      EVENT_ADX_US.AFS)  from  the  /SONICADV subdirectory in order to make  
+      room  for the selfbooting process  (this is a japanese soundfile that  
+      is not used during gameplay, so it has no effect on the game when you  
+      remove  it).  Then just use Echelon's self-boot toolkit to make a new  
+      and improved burn of the game.                                         
+                                                                             
+      NOTE: there  are TWO sets of fixed files included  in this  zip...you  
+            need only use ONE of them.  In order  to determine which set to  
+            use,  you must  first follow  steps 1-10 of  Echelon's selfboot  
+            tutorial.  At  the  end of  step 10,  once you've  obtained the  
+            correct -msinfo value for your burner, you will know whether to  
+            use the 11700 set or the 11702 set.  Yes there  WERE other ways  
+            to handle this, but since most  people are quite  familiar with  
+            Echelon's tutorial by now, this was the easiest  way to be sure  
+            this fix would work for EVERYONE :)                              
+       .                                                                 .   
+       :                                                                 :   
+      _|_________________________________________________________________|_  
+       |                         Group News                              |   
+      -|-----------------------------------------------------------------|-  
+       :                                                                 :   
+       .                                                                 .   
+                                                                             
+      Nothing to tell really...just a bunch of people tryin to give back to  
+      the scene the only way we know how.  Feel free to drop by #dchelp on   
+      Efnet if you ever have any questions, feel like ANSWERING some         
+      questions, or just plain feel like hangin out :)                       
+                                                                             
+       .                                                                 .   
+       :                                                                 :   
+      _|_________________________________________________________________|_  
+       |                         Greetings                               |   
+      -|-----------------------------------------------------------------|-  
+       :                                                                 :   
+       .                                                                 .   
+                                                                             
+      ECHELON, KALISTO, UTOPIA, PARADOX, NORATIO, and the rest of the groups 
+      and individuals who are kind enough to give a l'il somethin' back to   
+      the scene...we appreciate it!!                                         
+                                                                             
+      _|_________________________________________________________________|_  
+       |                                              nfo design: mahs   |   
+      -|-----------------------------------------------------------------|-  
+       |                                                                 |   
+      /_\                                                               /_\  
+      |_|                                                               |_|  
+     /_|_\                                                             /_|_\ 
+    /_{|}_\                                                           /_{|}_\

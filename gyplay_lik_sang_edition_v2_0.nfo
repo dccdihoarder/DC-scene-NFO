@@ -1,0 +1,164 @@
+  <+------------------------------------------------------------------------+>
+   |                                                                        |
+   |            {Insert your favorite fancy ASCII artwork here!}            |
+   |                                                                        |
+  <+------------------------------------------------------------------------+>
+   |                                                                        |
+   |      Name : GypPlay: Lik Sang Edition (v2.0) - MPEG-1/VCD Video Player |
+   |  Released : February 28th, 2001 (for Lik Sang's y2kode competition)    |
+   |  Platform : Sega Dreamcast (DC)                                        |
+   |    Author : The Gypsy                                                  |
+   |                                                                        |
+   +--|- -                                                            - -|--+
+      | Release Notes -------------------------------------------------  |
+   +--|- -                                                            - -|--+
+   |                                                                        |
+   |  Welcome to GypPlay: Lik Sang Edition (a.k.a. GypPlay v2.0).  It is    |
+   |  intended for playing MPEG-1 video streams on your Dreamcast.  It was  |
+   |  originally written for playing VideoCD video files and just happens   |
+   |  to work with pretty much any MPEG-1 videos.  There have been          |
+   |  significant improvements and new features since the previous v1.x     |
+   |  releases.  Note, however, that the playback rate itself is only       |
+   |  slightly improved -- there is not much more I can do as far as the    |
+   |  playback quality itself goes.  You can improve playback by doing      |
+   |  your own encoding.  See the GypPlay FAQ for more details.             |
+   |                                                                        |
+   |  GypPlay Feature list:                                                 |
+   |  =====================                                                 |
+   |   * GUI significantly improved over previous releases.                 |
+   |   * Will play multiple videos from one disc.  Put as many video files  |
+   |     as you can onto your disc along with the GypPlay files.            |
+   |   * "Search and Play" option: GypPlay walks through the entire disc    |
+   |     searching for anything with a proper extension (.mpg, .mpeg,       |
+   |     .dat, .avi, .m1v) and attempts to play them.                       |
+   |   * New "File Browser" option: allows you to select a specific file    |
+   |     to play from any directory on the disc.                            |
+   |   * Standard video playback controls: Pause/Rewind/Fast-forward.       |
+   |   * Variable-speed REW/FF based on the controller's analog stick.      |
+   |   * Time Display: Time elapsed and remaining for the current video.    |
+   |   * Title Display: Onscreen display of current video filename.         |
+   |   * VMU Title Display: Display of current video filename on all        |
+   |     attached VMUs.                                                     |
+   |   * Movie Skip (Search and Play mode only): Move on to the next video  |
+   |     found on the disc, if any.                                         |
+   |   * Autoplay: If there is a file in the root of the disc named         |
+   |     "autoplay.gyp" then GypPlay will automatically do a "Search And    |
+   |     Play" after displaying the two startup splash screens.  This       |
+   |     allows the user to easily do self-playing movie discs so that no   |
+   |     user interaction is necessary.                                     |
+   |   * Supports the swapping in of real/original GDROMs.  Insert any of   |
+   |     your original DC GDROMs and GypPlay will attempt to find videos    |
+   |     on them to play.  A good one to try is Gauntlet Legends.  Note     |
+   |     that the games commonly use .m1v files, which have video, but no   |
+   |     sound -- so do not be surprised if there is no sound.              |
+   |                                                                        |
+   |  Limitations in this version:                                          |
+   |  ============================                                          |
+   |   * You can only play MPEG-1 videos.  Codecs such as DivX, MPEG-4,     |
+   |     and so on do NOT work.  I repeat: MPEG-1 ENCODED VIDEOS ONLY!      |
+   |   * You cannot swap in anything except original GDROMs to search for   |
+   |     other movies.  This means that GypPlay must be on the CDR with     |
+   |     the videos that you want to play.  [Note: Certain modchips have    |
+   |     an interesting side effect that will actually allow non-GDROMs to  |
+   |     be swapped in and GypPlay will play the videos it finds on that    |
+   |     disc.  If you have a modchip installed, you can try swapping in    |
+   |     another disc to see if it will work.  However, even with the       |
+   |     proper modchip, this will NOT work with most original VCD discs    |
+   |     because they are Mode 2/XA (which is NOT supported).]              |
+   |                                                                        |
+   |  Instructions:                                                         |
+   |  =============                                                         |
+   |   * Make sure you have everything from the GypPlay archive(s).         |
+   |     Depending on where/how you downloaded GypPlay, the files may be    |
+   |     all in one archive or they may be spread among two seperate ones.  |
+   |     In either case, the files must include: GypPlay.exe, ip.bin,       |
+   |     1st_read.bin, 0gdtex.pvr, and a WinCE directory with 8 files in    |
+   |     it.  If you do not have all of these files, GypPlay will not work! |
+   |   * With your CDR software (I use Nero personally), create a new       |
+   |     data disc ISO9660 compilation (NOT a VideoCD disc).                |
+   |   * Include everything from the GypPlay archive, including the WinCE   |
+   |     directory.                                                         |
+   |   * Add your video file(s) anywhere on the CD.  They can be in the     |
+   |     root or in any subdirectory that you like.  They can have any      |
+   |     name as long as they end in a valid, supported extension (see      |
+   |     above in the Feature List for extensions).                         |
+   |   * Set the software for Mode 1 (CDROM, not Mode 2/XA!), ISO Level 2,  |
+   |     and support for the Joliet filesystem.                             |
+   |   * Burn it!                                                           |
+   |   * Boot the Utopia Boot Disc in your Dreamcast.                       |
+   |   * After it loads, swap in your new GypPlay/movie(s) disc.            |
+   |   * When the GypPlay title screen appears, press button A to start a   |
+   |     search for video files on the disc.  GypPlay will play them as it  |
+   |     finds them.   Enjoy!                                               |
+   |   * Note that you can do a self-booting GypPlay disc which will then   |
+   |     work without the Utopia Boot Disc.  Doing that is beyond this      |
+   |     document -- see the GypPlay FAQ or follow any of the numerous      |
+   |     self-boot documents out there.                                     |
+   |                                                                        |
+   +--|- -                                                            - -|--+
+      | Greetings and Salutations -------------------------------------  |
+   +--|- -                                                            - -|--+
+   |                                                                        |
+   |    Alchemy Curare  -  Snark!  -  Ogre  -  Nagra  -  oman  -  Jules     |
+   |     Marcus  -  Stalin  -  Cyrus  -  KamKa  -  AndrewK  -  xPridEx      |
+   |                     madman  -  DCG  -  Dan Potter                      |
+   |                                                                        |
+   |  Special thanks to:                                                    |
+   |    * Stalin for the "spinning disc" logo                               |
+   |    * oman for the DC controller graphic                                |
+   |                                                                        |
+   +--|- -                                                            - -|--+
+      | Contacts ------------------------------------------------------  |
+   +--|- -                                                            - -|--+
+   |                                                                        |
+   |  TheGypsy can be reached at contact_thegypsy@hotmail.com.              |
+   |                                                                        |
+   |  DO _NOT_ EMAIL ME ABOUT:                                              |
+   |  ========================                                              |
+   |   * Where to find pirated games, boot discs, etc.                      |
+   |   * Where to find official Dreamcast SDKs (a.k.a. DevKits).            |
+   |   * DivX/MPEG4/other codec support: GypPlay doesn't have it, and I     |
+   |     really don't care to hear your requests for it.                    |
+   |   * Emailing you when a new release comes out -- you'll just have to   |
+   |     check just like everyone else does.  I don't run a mailing list.   |
+   |   * Self-booting support.  If you can't get it to work, then complain  |
+   |     to whoever wrote your self-boot docs/tool, not me.                 |
+   |   * Stupid problems that you are having mainly because you are too     |
+   |     lazy to read and follow the simple instructions above!             |
+   |   * Disc-swapping of anything except original GD-ROMs.  I don't want   |
+   |     to hear about your problems with an UNSUPPORTED feature.           |
+   |   * Anything that is in the GypPlay FAQ (see link below)!  If it is    |
+   |     in the FAQ and you email to ask me about it, I will NOT be happy.  |
+   |                                                                        |
+   |  DO FEEL FREE TO EMAIL ME ABOUT:                                       |
+   |  ===============================                                       |
+   |   * Programming/testing help/questions/discussion if you are already   |
+   |     a DC developer.  If you email me about this, you had better        |
+   |     already have a DevKit (either official or homebrew) and some code  |
+   |     that you wrote.  Do NOT email me questions such as: "How do I      |
+   |     develop for the DC?", "Where can I find programming information?", |
+   |     "I saw the source code for XYZ on the Net someplace; can you port  |
+   |     it to the DC for me?"                                              |
+   |   * Praise/thanks/greetings.  I enjoy people getting enjoyment out of  |
+   |     my work.  Feel free to tell me if you like it.                     |
+   |   * REASONABLE feature requests or suggestions.  Do not email and ask  |
+   |     for things such as MP3 support -- that is NOT a minor/reasonable   |
+   |     feature request.                                                   |
+   |                                                                        |
+   +--|- -                                                            - -|--+
+      | Links/Resources -----------------------------------------------  |
+   +--|- -                                                            - -|--+
+   |                                                                        |
+   |  GypPlay FAQ:                                                          |
+   |    http://gypplay.thegypsy.com                                         |
+   |                                                                        |
+   |  B00B Dreamcast Research:                                              |
+   |    http://boob.co.uk                                                   |
+   |                                                                        |
+   |  Jules' DC Development:                                                |
+   |    http://julesdcdev.com                                               |
+   |                                                                        |
+   |  Lik Sang's y2kode Competition:                                        |
+   |    http://y2kode.com                                                   |
+   |                                                                        |
+  <+------------------------------------------------------------------------+>

@@ -1,0 +1,50 @@
+NesterDC (port of nester) emulator for the dreamcast including 760 games to use with it
+
+Format: DiskJuggler (.cdi)
+Size: five rars, 89 megs
+not burned or tested
+
+----------
+
+Well this emulator was released a few days ago, it's a port of the nes emulator nester,
+appropriately named nesterDC. This cd is slef booting, I hear people having problems with
+self booting images, I think they need to use discjuggler 3 to burn it. I just threw in
+all the american nes games I have on my computer. They were all verified either good, or
+perfect from redump (no bad dumps, or messed up games.) The names are slightly messed up
+from the iso conversion, some ' and () and [] are converted to underscores and look kinda
+weird. If you want, you can use goodnes (an nes game verifying program) to rename the
+files back to their original names. I also left an ip.bin file in the main folder, in
+case anyone wants to make their own self boot cd. The first time I tried to burn this
+emulator, I used the binhack.exe to insert the 11700 address into the two files, but
+that made my dc reset over and over. So I then tried leaving them alone, and booted
+perfectly. If you want to repack and make your own cd, I recommend that you have 11700
+and not 11702 as the msinfo number, because I haven't tried it with the second number
+(I get 11700 when I use cdrwin, and 11702 with cdrecord.exe.) Make sure to put the games
+in \games (folder named "games" in the root folder.) You can also make a separate cd
+with the game in a \games folder that can be swapped.
+
+----------
+
+Nester's homepage is http://nester.homepage.com/
+
+The homepage of this port is http://members.bellatlantic.net/~kfriece/nesterdc.html
+
+----------
+
+The emulator runs at just about full speed. But the sound emulation is a bit on the
+poor side, and it is disabled by default. This is still a very good emulator, and
+is really fun to play.
+
+Now the game loading menu is quite different from anything I've seen before :)
+You're initial instinct is to press down to scroll through and press a button to select.
+Well you'll see on the left of the screen, it says "up" "down" "left" "right" etc with
+a game's name next to it. So if you press down, it will load that game. If you press up,
+it will load a different one. You see several games on the page, then press start to go
+to the next page. So watch out, and don't press down to scroll through. Also, I don't
+think there's any way to go back to the menu after loading a game, you have to turn of
+the console then turn it back on.
+
+----------
+
+There's 760 games, so I'm not gonna paste them here. It has pretty much every american
+nes game, no duplicates (well maybe one or two,) and no corrupted games.

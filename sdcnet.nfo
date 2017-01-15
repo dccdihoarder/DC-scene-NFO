@@ -1,0 +1,262 @@
++-------------------------------------------+
+| SarienDC v1.0 (cvs20010909)               |
+| Copyright (c) 2001 Ganksoft Entertainment |
+| http://www.ganksoft.com/                  |
++-------------------------------------------+
+
+-----------------
+Table of Contents
+-----------------
+0.0 Introduction
+
+1.0 Burning Instructions
+    1.1 Self-boot Images
+    1.2 Individual Files
+    1.3 Game Files
+    1.4 Additional Information
+      
+2.0 Controls
+
+3.0 Known Issues
+
+4.0 Contact Information
+
+5.0 Acknowledgements
+    5.1 Ganksoft Staff
+    5.2 Sarien Team
+    5.3 The Rest
+
+6.0 Closing Words
+
+7.0 Legal Info
+
+
+------------------
+0.0 - Introduction
+------------------
+    Sarien is a Sierra AGI resource interpreter engine that enables you to
+play early Sierra On-Line(tm) AGI version 2 and version 3 games, as well as
+AGI games written by other people.
+
+    Sarien is covered by the Free Software Foundation's GNU Public License
+and is an open source development. Up to date information and anonymous CVS
+is available at http://sarien.sourceforge.net/.
+
+    Please note that Ganksoft Entertainment has only created a port of
+Sarien to the Dreamcast.  Please see the above link for more information on
+the base Sarien project.
+
+
+--------------------------
+1.0 - Burning Instructions
+--------------------------
+    SarienDC can be burned in one of two ways.
+
+---------------------
+1.1 - Self-boot Image
+---------------------
+    Two self-boot images are provided, one for Disc Juggler v3.0 and one for
+Nero Burning ROM.  For more information on Disc Juggler, please visit
+http://www.padus.com .  For more information on Nero, please visit
+http://www.nero.com .
+    If your CDR drive is not supported by Disc Juggler or Nero, please read
+the section 1.2 for information on making your own program CD.
+
+----------------------
+1.2 - Individual Files
+----------------------
+    The second distribution is all of the individual files that are included
+in the Disc Juggler/Nero images, but instead of burning a prepared disc
+image, you will need to burn the files as they are layed out in the .zip
+file.  This will require you to either make the disc self-boot on your own,
+or will require the use of some type of boot disc.
+
+    The layout for this CD is as follows:
+
+    /1ST_READ.BIN
+    /GFX
+        FONT.GSI
+        GANKSOFT.GSI
+        INSERT.GSI
+        MENU.GSI
+        TITLE.GSI
+        WAIT.GSI
+
+    Additionally, you can put your games on this CD.  Please see the next
+section on how to do this.
+
+    PLEASE NOTE: At this time, Ganksoft will not be providing detailed
+instructions on creating your own self-boot Dreamcast CDs.  Please see
+section 1.4 for some web sites that contain detailed information on how to
+make your own self-boot CDs.
+
+----------------
+1.3 - Game Files
+----------------
+    The games that this interpreter is capable of playing are listed in
+the included file, "sarien.cfg".  If it isn't on the list, it doesn't
+work.
+
+    If you've burned the self-boot disc image listed in section 1.1, you
+will need to create a separate CD filled with your own Game data files.
+This CD should be burned in Mode 1 format.
+  
+    If you are making your own self-boot CD from section 1.2, these files
+can be burned onto the same CD eliminating the disc swap.
+  
+    In either situation, just copy the data files into a subdirectory of any
+name under a master subdirectory named "GAMES".  For example, your CD layout
+might look like the following:
+
+        /GAMES
+            /LSL
+                <data files>
+            /SQ1
+                <data files>
+            /SQ2
+                <data files>
+
+    The data files needed for each game are based on the version of the
+interpreter that the game uses.
+
+    For a AGI V2 games you only need the following files:
+        logdir
+        object
+        picdir
+        snddir
+        viewdir
+        vol.*
+        words.tok
+
+    For an AGI V3 game you need:
+        *dir    (eg: bcdir, dmdir, grdir, kq4dir, mhdir)
+        *vol.*  (eg: bcvol.*, dmvol.*, etc)
+        object
+        words.tok
+
+    In the above, "*" means any file which matches.  For example, "vol.*"
+would mean the files "vol.0", "vol.1", "vol.2", etc.
+
+    If you don't see any of the above files in the game you are trying to
+run, you are using a game that is not supported by this version of Sarien.
+Most likely, you're trying to play a VGA re-released of an original game
+(the re-release of Leisure Suit Larry 1, for example).
+
+    When you start the program from the self-boot, swap the program CD for
+the Game CD when prompted and leave this CD in the drive for
+the duration of the program.
+
+----------------------------
+1.4 - Additional Information
+----------------------------
+    You may find useful burning information at the following sites.  These
+are not affiliated with Ganksoft in anyway so we cannot be held responsible
+for what the pages may contain.
+  
+    http://www.dcemulation.com/
+    http://www.boob.co.uk/
+    http://www.dcvision.com/
+    http://mc.pp.se/dc/
+
+
+--------------
+2.0 - Controls
+--------------
+
+    **** SARIENDC ABSOLUTELY POSITIVELY REQUIRES A KEYBOARD!!! ***
+
+    Game Selection
+        Up / Down arrow - Move highlight bar by one game
+        Page Up / Page Down - Move highlight by bar one page
+        Enter - Select game
+      
+    In-game keys are identical to their interpreted game keys.  Press F1
+when in the game to see the game's help menu.  Additional in-game keys are
+as follows:
+
+        S1 + F11 - Toggle draw to VRAM vs. draw to TA
+        S1 + F12 - When in TA mode, toggles bilinear filtering
+
+    The S1 key is located at the lower left of the keyboard between ALT and
+CTRL.  On a standard PC keyboard, it would be the key with the Windows logo
+on it.
+
+
+------------------
+3.0 - Known Issues
+------------------
+
+    There are several known issues with this release:
+
+    - There is no way to save your game.  VMU support in KOS is currently
+broken.
+
+    - Switching between several games in the same session can cause weird
+results.  There is some portion of Sarien that is not being "cleaned up"
+properly in a multi-game scenario.
+
+    - The timing is a bit fast.
+
+    If the required fixes are made to KOS, Sarien or SarienDC at any point,
+a new release will be made to correct the problem.
+
+
+-------------------------
+4.0 - Contact Information
+-------------------------
+    Before sending us email, please be sure you've read this document in its
+entiretly.  If you still have questions, please check our web site at
+http://www.ganksoft.com and look in the "Support" section to see if your
+question is already answered.  If all else fails, you may contact us at
+tech@ganksoft.com .
+
+
+----------------------
+5.0 - Acknowledgements
+----------------------
+
+--------------------
+5.1 - Ganksoft Staff
+--------------------
+    - Brian Peek (brian@ganksoft.com)
+        Lead Programmer
+    - Bob Thayer (bob@ganksoft.com)
+        Lead Artist
+    - David Wallimann (david@ganksoft.com)
+        Lead Musician
+    - Mike Kilcullen (mike@ganksoft.com)
+        Materials Coordinator
+      
+-----------------
+5.2 - Sarien Team
+-----------------
+    Please see included AUTHORS file for more information.
+
+--------------
+5.3 - The Rest
+--------------
+    - Dan Potter
+        Author of KOS
+
+
+-------------------
+6.0 - Closing Words
+-------------------
+    Please be aware the Ganksoft CAN NOT AND WILL NOT provide ANY
+information on obtaining game data files  Also note that we will NOT provide
+any information on burn methods NOT listed above.  You should only be using
+games that you are legally entitled to have in your posession.
+
+
+----------------
+7.0 - Legal Info
+----------------
+
+THIS PROGRAM IS NOT ENDORSED BY, LICENSED BY, WARRANTED BY, OR IN ANY OTHER
+WAY CONNECTED WITH SEGA ENTERPRISES.
+
+Sega and Dreamcast are registered trademarks of Sega Enterprises, Ltd.
+
+All other trademarks are the property of their respective owners.
+
+Mustard Free for her pleasure.

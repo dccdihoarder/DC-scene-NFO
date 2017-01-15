@@ -1,0 +1,83 @@
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||| ______ |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||| /      \______    ____________________________________________________________  |||
+|||| /   __   \\    \  /    /  ______||  __   \ |  __   \ |   ||  ____  \ |  ______|  |||
+||| /   /  \   \\    \/    /|  |_____ |  | \   \|  | \   \|   ||  |   \  \|  |______  |||    
+||| |   |  |   | \        / |   _____||  |_/   /|  |_/   /|   ||  |    |  |  ______|  |||      
+||| |   |  |   |  \      /  |  |_____ |       / |       / |   ||  |___/   |  |______  |||     
+||| \   \__/   /   \    /   |        ||   |   \ |   |   \ |   ||         /|        |  |||    
+|||| \        /_____\__/____|________||___|____\|___|____\|___||________/_|________|  |||
+||||| \______/ ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+      
+ <============================================================================>
+   ^                    ----- Proudly Presents +++++                        ^
+   |                                                                        |
+   |     Program : Bleem!cast Selfboot Script.bat                           |
+   |      Origin : NTSC Tested                                              |
+   |    Released : 9/06                                                     |
+   |    Filename : BSS.part01                                               |
+   |  CDs / Rars : 1 cd / 1 rars                                            |
+   |    Platform : Win32                                                    |
+   |      Format : MSDos Batch Executalbe                                   |
+   |                                                                        |
+ <========                                                           ========>
+      |  +++++++++++++++++++++++++++++--------------------------------   |
+      |  --------------------- RELEASE NOTES +++++++++++++++++++++++++   |
+ <========                                                           ========>
+   ^                                                                        ^ 
+   |                                                                        |
+   |                                                                        |
+   |  Program Info: (Requires that you have Disc Juggler)                   | 
+   |                                                                        |
+   |  After hours of trying to figure out how to get full PSX game on a     |
+   |  selfboot disc with the bleem emulator, I was almost ready to give up. |
+   |  Eventually, after reverse-engineering a Treb rls, reading way more    |
+   |  on how a DC boots software, and finding a few key tutorials, I was    |
+   |  finally able to figure out how it works. 				    |
+   | 									    |
+   |  I have written a Script that I used to make my Bleem!cast releases.   |
+   |									    |
+   |  Rather than release every game I was able to get selfboot, I will     |
+   |  release this program so that you can make your own.  Maybee one       |
+   |  of you will be able to find a Killer app that one of us missed...     |
+   |									    |
+   |     +++++++++++++++++++++++++++++--------------------------------      |
+   |     --------------------- INSTRUCTIONS: +++++++++++++++++++++++++      |
+   |									    |
+   |     1.)  Extract Data from PSX game into a folder on HDD.		    |
+   |     2.)  With Disc Juggler, 'create new cd', data CD-XA mode 2,	    |
+   |	      burn extracted PSX data at 8x DO NOT CLOSE DISC!!!            |
+   |     3.) In Command Promt, change directory to folder on your HDD       |
+   |         where Bleem!cast Selfboot Script is Extracted to               |
+   |         eg; cd C:\Bleem!cast Selfboot Script                           |
+   |     4.) In Command Promt, run this command:                            |
+   |         cdrecord -scanbus 					            |
+   |         TAKE NOTE OF YOUR BURNER DRIVE ID(scsi_id)! eg; 1,0,0          |
+   |     5.) In Notepad, open 'any file', open Bleem!castSelfbootScript.bat |
+   |         and edit theese 3 settings:				    |
+   |         set scsi_id= X,X,X    || **Required!!!Must Be Correct!         |
+   |         set speed= X	   || **Required!!! I recomend = 8	    |
+   |	     set gamename= XXXXX   || Optional (No more than 8 characters!) |
+   |         MAKE SURE scsi_id	IS ENTERED CORRECTLY!			    |
+   |     6.) Doubble-Click Bleem!castSelfbootScript.bat, and when disc      |
+   |         ejects, you will have a selfboot Bleem!cast disc!              |
+   |									    |
+   |            ****MAKE SURE YOUR API'S ARE UP TO DATE!****		    |
+   |									    |
+   |  ===================================================================   |
+   |                                                                        |
+   |  Resouces for Bleem!cast Selfboot Script here:	                    |
+   |                                                                        |
+   |  http://mc.pp.se/dc/cdr.html				            |
+   |  http://www.cdrom-guide.com/forums/archive/index.php/t-54699.html      |
+   |                                                                        |
+   |	++++++++++++++++++++++++++++++++--------------------------------    |
+   |                                                                        |
+   |                            ENJOY? SEED!                                |
+   |   									    |
+   |	--------------------------------++++++++++++++++++++++++++++++++    |
+   |                 ===== Props to Original Bleem Team =====               |
+   |                                                                        |
+   |                  +++++ Dreamcast Dreams On 2006! -----                 |
+ <============================================================================>
